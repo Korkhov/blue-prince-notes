@@ -20,6 +20,8 @@
 - Room 8 (статуи и грехи) → [rooms/room-8/open-questions.md](rooms/room-8/open-questions.md)
 - Шкатулка Мора Джай (пятиугольники) → [puzzles/mora-jai-boxes/](puzzles/mora-jai-boxes/README.md)
 - Ключ ARCHIVE в Blackbridge → [rooms/blackbridge-grotto/open-questions.md](rooms/blackbridge-grotto/open-questions.md)
+- «SD» в записке из голубятни → [rooms/dovecote/open-questions.md](rooms/dovecote/open-questions.md)
+- «X Y Z A B C» / «sign» на вырезке, картотека → [rooms/archives/open-questions.md](rooms/archives/open-questions.md)
 - Сюжетные вопросы → [story/timeline.md](story/timeline.md)
 
 ## Игровой прогресс (на 19.10.2026)
