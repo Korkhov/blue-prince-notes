@@ -1,3 +1,4 @@
+Found in: Workshop, Music Room (sheets are scattered across rooms).
 Eight sheets of music numbered 1–8. Each first word of the lyrics is the true message; key words on the sheets (bold): 1 first, 2 words, 3 on, 4 the, 5 sheets, 6 are, 7 true, 8 message.
 1: "Find here within these first words sung…"
 2: "Among this scattered symphony… A message hidden beneath the keys… In bold words sung by you and me…"

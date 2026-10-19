@@ -8,6 +8,7 @@
   - `solutions.md` — решённое
   - `open-questions.md` — нерешённое
 - `documents/<документ>/` — записки, у которых комната неизвестна
+- `documents/foreman-logs/` — серия журналов прораба (встречаются в разных местах)
 - `puzzles/` — сквозные загадки (сейфы, буквы, шахматы, Мора Джай…)
 - `story/timeline.md` — сюжет и персонажи
 - `tutorials/` — обучающие карточки игры
@@ -19,7 +20,7 @@
 - Room 8 (статуи и грехи) → [rooms/room-8/open-questions.md](rooms/room-8/open-questions.md)
 - Шкатулка Мора Джай (пятиугольники) → [puzzles/mora-jai-boxes/](puzzles/mora-jai-boxes/README.md)
 - Ключ ARCHIVE в Blackbridge → [rooms/blackbridge-grotto/open-questions.md](rooms/blackbridge-grotto/open-questions.md)
-- «Белые деревья, два камня» (ноты) → [documents/sheet-music/ru.md](documents/sheet-music/ru.md)
+- «Белые деревья, два камня» (ноты) → [puzzles/sheet-music/](puzzles/sheet-music/ru.md)
 - Сюжетные вопросы → [story/timeline.md](story/timeline.md)
 
 ## Игровой прогресс (на 19.10.2026)
