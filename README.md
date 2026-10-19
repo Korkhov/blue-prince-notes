@@ -27,6 +27,11 @@
 - Щиток V.A.C. — что даёт → [rooms/utility-closet/open-questions.md](rooms/utility-closet/open-questions.md)
 - Витражи Chapel → [rooms/chapel/open-questions.md](rooms/chapel/open-questions.md)
 - «DELETE IT!» (монитор A) → [documents/delete-it-monitors](documents/delete-it-monitors/ru.md)
+- Стих про 8 ключей → [documents/eight-keys-poem](documents/eight-keys-poem/ru.md)
+- Стих «лебедь и ворона» (шестиугольник) → [documents/swan-crow-poem](documents/swan-crow-poem/ru.md)
+- C-A-S-T-L-E в трещине → [rooms/the-precipice/open-questions.md](rooms/the-precipice/open-questions.md)
+- Письмо на неизвестном языке (Uldjora) → [documents/uldjora-letter](documents/uldjora-letter/ru.md)
+- Записка «I I O O», чертёж с заштрихованной клеткой → [documents/i-i-o-o-note](documents/i-i-o-o-note/ru.md), [documents/blueprint-scroll](documents/blueprint-scroll/ru.md)
 - Сюжетные вопросы → [story/timeline.md](story/timeline.md)
 
 ## Игровой прогресс (на 19.10.2026)
