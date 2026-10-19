@@ -18,6 +18,9 @@
 08-01-93 ThomK — Added new data management features to Blackbridge Admin Control. Updated USER DATABASE.
 11-06-93 MoorR — Changing of the guard – In preparation for Simon's arrival, inbound and outbound messages, as well as offsite connections from outside the estate, have been disabled per the instructions left by the Baron himself.
 
+## Deleted logs (photos 14–15)
+03-04-87, 03-06-87, 03-07-87, 03-09-87, 03-14-87, 07-10-87, 07-11-87, 07-12-87 — [-DELETED-] -- DELETED LOG --
+
 ## Photos / Фото
 ![01.jpg](01.jpg)
 ![02.jpg](02.jpg)
@@ -32,3 +35,5 @@
 ![11.jpg](11.jpg)
 ![12.jpg](12.jpg)
 ![13.jpg](13.jpg)
+![14.jpg](14.jpg)
+![15.jpg](15.jpg)
