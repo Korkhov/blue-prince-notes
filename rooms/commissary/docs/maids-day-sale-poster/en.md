@@ -1,0 +1,14 @@
+ANNUAL MAID'S DAY
+**SALE**
+TWO DAYS ONLY
+
+ALL ITEMS UP TO **50% OFF**
+
+ALL STAFF WELCOME
+
+**DAY 20 & 21**
+
+MT. HOLLY COMMISSARY
+
+## Photos / Фото
+![01.jpg](01.jpg)
