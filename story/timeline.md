@@ -10,6 +10,7 @@
 - **Мэри Мэттью Джонс**: мать Саймона, племянница и ближайшая родственница барона Х. С. Синклера, «наследница Synka» («мой ноготок»). Идёт «по стопам отца», уезжает «на восток» по рискованному «проекту» примерно на 2 года. ([красное письмо SIX](../rooms/drawing-room/docs/red-letter-six-to-mary/ru.md))
 - **Marion Marigold** = псевдоним **Мэри Мэттью Джонс** (подтверждено газетой). Детские книги «Red Prince» (дебют, медаль) и «Swim Bird» (медаль Herald, 1985). ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md), [газеты](../rooms/archives/docs/newspaper-clippings-album/ru.md)) ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md))
 - **Леди Клара Эпсен**: пара Саймона (картина «Clara & Simon, Inneclipse Ball 1952» в [Ballroom](../rooms/ballroom/docs/clara-simon-inneclipse-ball-1952/ru.md)); умерла около июня 1983; в знак траура закрыто западное крыло. ([объявление](../rooms/west-wing-hall/docs/staff-notice-west-wing-closed/ru.md))
+- **Рэндольф М.**, **Кимберли Томпсон** (из SYNKA labs), **Мур** (Moore): лаборанты/инженеры; испытания новой турбины. ([записка](../rooms/laboratory/docs/kimberly-thompson-note/ru.md))
 - **Мила**: горничная (статуэтка «MILA» в Maid's Chamber; возможно, витраж V в Chapel).
 - **Кристоф**: шофёр Герберта; часто пропадает вместе с машиной. ([записка](../rooms/garage/docs/babbage-note-to-christoph/ru.md))
 - **Вымогатели X**: анонимные шантажисты, «навсегда анонимный X». ([письмо](../rooms/office/docs/x-parting-letter-red-infinity/ru.md))
