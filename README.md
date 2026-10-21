@@ -18,13 +18,14 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.5 = S, 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.3 = G, 2.4 = H, 3.1 = C, 3.2 = R, 3.3 = A, 3.4 = C, 3.5 = K, 4.1 = D, 4.2 = A, 4.3 = T, 4.5 = S, 5.1 = E, 5.2 = I, 5.3 = G, 5.4 = H, 5.5 = T, 6.1 = G, 6.2 = A, 6.3 = T, 6.5 = S, 7.2 = M, 7.3 = A, 7.4 = L, 7.5 = L, 8.3 = U)
+- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.5 = S, 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.3 = G, 2.4 = H, 3.1 = C, 3.2 = R, 3.3 = A, 3.4 = C, 3.5 = K, 4.1 = D, 4.2 = A, 4.3 = T, 4.5 = S, 5.1 = E, 5.2 = I, 5.3 = G, 5.4 = H, 5.5 = T, 6.1 = G, 6.2 = A, 6.3 = T, 6.5 = S, 7.1 = S, 7.2 = M, 7.3 = A, 7.4 = L, 7.5 = L, 8.3 = U)
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): что прячут листы нот
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
 - [ ] [Security](rooms/security/open-questions.md): мелкий шрифт на записке про memos, пароль терминала
+- [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
