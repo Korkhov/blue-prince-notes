@@ -11,13 +11,13 @@
 - **Marion Marigold** = псевдоним **Мэри Мэттью Джонс** (подтверждено газетой). Детские книги «Red Prince» (дебют, медаль) и «Swim Bird» (медаль Herald, 1985). ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md), [газеты](../rooms/archives/docs/newspaper-clippings-album/ru.md)) ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md))
 - **Леди Клара Эпсен**: пара Саймона (картина «Clara & Simon, Inneclipse Ball 1952» в [Ballroom](../rooms/ballroom/docs/clara-simon-inneclipse-ball-1952/ru.md)); умерла около июня 1983; в знак траура закрыто западное крыло. ([объявление](../rooms/west-wing-hall/docs/staff-notice-west-wing-closed/ru.md))
 - **Рэндольф М.**, **Кимберли Томпсон** (из SYNKA labs), **Мур** (Moore): лаборанты/инженеры; испытания новой турбины. ([записка](../rooms/laboratory/docs/kimberly-thompson-note/ru.md))
-- **Роберт Ногула**: смотритель территории с 10.04.1992, ведёт журнал садовника. **Энн** — его собеседница (кто?). ([журнал](../rooms/apple-orchard/docs/gardeners-logbook/ru.md))
+- **Роберт Ногула**: смотритель территории с 10.04.1992, ведёт журнал садовника. **Энн** — его собеседница, это Энн Бэббидж. ([журнал](../rooms/apple-orchard/docs/gardeners-logbook/ru.md))
 - **Ангелы**: витражи Chapel — ангелы-покровители; **Рынна** — садоводства, **Мила** — горничных (?). Статуя **Ориндa** в Cloister.
 - **Мила**: горничная (статуэтка «MILA» в Maid's Chamber; возможно, витраж V в Chapel).
 - **Кристоф**: шофёр Герберта; часто пропадает вместе с машиной. ([записка](../rooms/garage/docs/babbage-note-to-christoph/ru.md))
 - **Вымогатели X**: анонимные шантажисты, «навсегда анонимный X». ([письмо](../rooms/office/docs/x-parting-letter-red-infinity/ru.md))
 - **Денни Ревейн**: бывший сотрудник, уволен; подозревался в краже почты барона. ([записка](../rooms/mail-room/docs/denny-revane-return-note/ru.md))
-- **Миссис Бэббидж**: управляющая домом (House Manager), к ней все вопросы персонала. ([объявление](../rooms/security/docs/staff-notice-terminals/ru.md))
+- **Миссис Энн Бэббидж (Anne Babbage)**: управляющая домом; каждое утро оставляет Саймону деньги в Entrance Hall ([записка](../rooms/entrance-hall/docs/babbage-allowance-note/ru.md)) (House Manager), к ней все вопросы персонала. ([объявление](../rooms/security/docs/staff-notice-terminals/ru.md))
 - **«Херби» и младший брат Саймон**: братья из старшего поколения, делили комнату (дневник в Bunk Room). Херби, вероятно, сам Герберт; Саймон-старший позже окончил колледж. ([дневник](../rooms/bunk-room/docs/brothers-diary-today-is-a-good-day/ru.md))
 - **Дэниел**: муж Мэри, отец Саймона; «без родового имени и состояния». В письме Герберту обвиняет его в замалчивании гибели Мэри. ([красное письмо 4](../rooms/boudoir/docs/red-letter-four-daniel/ru.md))
 - **Калеб Мэннинг**: писатель, наставник и друг Мэри; арестован Красной гвардией по делу о взрыве в Тринсдейле, судим за госизмену. ([газеты](../rooms/archives/docs/newspaper-clippings-album/ru.md))
