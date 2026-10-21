@@ -30,6 +30,7 @@
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
+- [ ] [Darkroom](rooms/darkroom/open-questions.md): инициалы на дереве и надпись на конверте (нужна лупа), горничные в фокусе
 - [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
 - [ ] [Четыре огня перед особняком](puzzles/gas-flames.md): найти остальные вентили газа
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
