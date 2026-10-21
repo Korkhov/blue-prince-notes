@@ -6,7 +6,8 @@ Two of these terminals can be found at Security *(where the punch-clock used to 
 
 Any questions or concerns regarding this process should be directed as always to our House Manager Mrs. Babbage.
 
-TERMINAL PASSWORD: *(scribbled out)*
+TERMINAL PASSWORD: *(scribbled out; through the magnifying glass:)* **SWANSONG**
 
 ## Photos / Фото
 ![01.jpg](01.jpg)
+![02.jpg](02.jpg)
