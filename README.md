@@ -27,6 +27,7 @@
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
 - [ ] [Security](rooms/security/open-questions.md): мелкий шрифт на записке про memos, пароль терминала
 - [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
+- [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
