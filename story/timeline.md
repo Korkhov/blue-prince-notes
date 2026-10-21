@@ -11,6 +11,9 @@
 - **Marion Marigold**: автор детской книги «The Red Prince». Возможно, псевдоним Мэри (догадка). ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md))
 - **Бабушка Саймона**: упоминается в письме Герберта («Сойди с тропы…»).
 
+## Места
+- **Reddington**: город с открытки «Greetings from Reddington» (Bedroom). ([открытка](../rooms/bedroom/docs/reddington-postcard/ru.md))
+
 ## События
 - Герберт умирает и оставляет Саймону поместье **Mount Holly** при условии, что тот пройдёт испытание. Правила: ничего не приносить снаружи, ничего не выносить, не оставаться на ночь, каждый день начинать заново. ([письмо](../rooms/entrance-hall/docs/herbert-welcome-letter/ru.md))
 
