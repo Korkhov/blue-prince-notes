@@ -16,3 +16,4 @@
 | Пешка ×2 | тёмные (чёрные?) | Bunk Room (на полке, рядом видеокассета) | [фото](bunk-room-pawns-dark.jpg) |
 | Слон | **чёрный** | Rumpus Room (на клетчатом полу) | [фото](rumpus-room-bishop-black.jpg) |
 | Конь | белый | Security (на картотечном шкафу) | [фото](security-knight.jpg) |
+| Конь | белый | Observatory (на полу у столика) | [фото](observatory-knight.jpg) |
