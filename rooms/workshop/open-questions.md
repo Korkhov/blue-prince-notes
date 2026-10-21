@@ -1,2 +1,2 @@
 # Workshop: открытые вопросы
-- [ ] Ноты №8: что значит выделенное **message** и «the note is read, the letter is not»? ([ноты](../../puzzles/sheet-music/08/ru.md))
+- [x] Ноты решены, см. [solutions](../../puzzles/sheet-music/solutions.md). ~~Ноты №8: что значит выделенное **message** и «the note is read, the letter is not»? ([ноты](../../puzzles/sheet-music/08/ru.md))
