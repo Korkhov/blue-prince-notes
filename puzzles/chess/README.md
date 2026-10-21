@@ -14,3 +14,4 @@
 | Пешка | **чёрная** | Walk-in Closet (на полке) | [фото](walk-in-closet-pawn-black.jpg) |
 | Король | белый | Office (на книжной полке, рядом бюст) | [фото](office-king.jpg) |
 | Пешка ×2 | тёмные (чёрные?) | Bunk Room (на полке, рядом видеокассета) | [фото](bunk-room-pawns-dark.jpg) |
+| Слон | **чёрный** | Rumpus Room (на клетчатом полу) | [фото](rumpus-room-bishop-black.jpg) |
