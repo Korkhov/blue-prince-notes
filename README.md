@@ -38,6 +38,7 @@
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
 - [ ] [Laboratory](rooms/laboratory/open-questions.md): куда применить PUSH THREE UP AFTER NINE, питание от Boiler Room
+- [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, письмо от папы, щиток Utility Room
 - [ ] [Maid's Chamber](rooms/maids-chamber/open-questions.md): кто на фото прислуги, Мила и витражи
 - [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber
 - [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
