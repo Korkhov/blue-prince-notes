@@ -18,7 +18,7 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.1 = S, 1.2 = A, 1.3 = F, 2.2 = I)
+- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.1 = S, 1.2 = A, 1.3 = F, 2.1 = E, 2.2 = I)
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
 
