@@ -27,7 +27,7 @@ Needless to say we will not be coming for christmas this year,
 Daniel
 
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
+![01.jpg](01.jpg)
+![02.jpg](02.jpg)
+![03.jpg](03.jpg)
+![04.jpg](04.jpg)

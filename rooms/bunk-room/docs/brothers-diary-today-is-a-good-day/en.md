@@ -29,9 +29,9 @@ Congrats on the diploma and welcome home!
 -Simon
 
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
-![5.jpg](5.jpg)
-![6.jpg](6.jpg)
+![01.jpg](01.jpg)
+![02.jpg](02.jpg)
+![03.jpg](03.jpg)
+![04.jpg](04.jpg)
+![05.jpg](05.jpg)
+![06.jpg](06.jpg)

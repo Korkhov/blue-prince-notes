@@ -43,9 +43,9 @@ And she wonders why I avoid tending the Cloister? (Truth be told, I have forgott
 *(drawing of a winged figure with a hat and hoe on a plinth)* — my best rendition, pretty good considering I have only ever seen Rynna's depiction in the chapel.
 
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
-![5.jpg](5.jpg)
-![6.jpg](6.jpg)
+![01.jpg](01.jpg)
+![02.jpg](02.jpg)
+![03.jpg](03.jpg)
+![04.jpg](04.jpg)
+![05.jpg](05.jpg)
+![06.jpg](06.jpg)

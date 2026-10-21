@@ -12,4 +12,4 @@ Back (назад)
 - Если в доме есть Servant's Quarters или Maid's Chamber, там появятся чеки (вероятно, деньги/монеты).
 
 ## Photos / Фото
-![1.jpg](1.jpg)
+![01.jpg](01.jpg)

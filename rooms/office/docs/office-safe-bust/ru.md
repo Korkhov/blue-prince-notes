@@ -4,4 +4,4 @@
 Решение: см. [solutions.md](../../solutions.md).
 
 ## Photos / Фото
-![1.jpg](1.jpg)
+![01.jpg](01.jpg)

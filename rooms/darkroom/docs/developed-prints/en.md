@@ -9,12 +9,18 @@
 7. Elderly man with white hair and a large moustache, holding up the SYNKA Co. camera (self-portrait).
 8. Stout man with glasses in a waistcoat holding an envelope with text on it (needs magnifying glass); a smiling moustached man with a glass behind him; candelabras.
 
+*Magnified (photo 9 — envelope in print 8):* …een memos found in Hartley's room are always false.
+
+*Magnified (photo 10 — heart on the tree in print 2):* 11-28
+
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
-![5.jpg](5.jpg)
-![6.jpg](6.jpg)
-![7.jpg](7.jpg)
-![8.jpg](8.jpg)
+![01.jpg](01.jpg)
+![02.jpg](02.jpg)
+![03.jpg](03.jpg)
+![04.jpg](04.jpg)
+![05.jpg](05.jpg)
+![06.jpg](06.jpg)
+![07.jpg](07.jpg)
+![08.jpg](08.jpg)
+![09.jpg](09.jpg)
+![10.jpg](10.jpg)
