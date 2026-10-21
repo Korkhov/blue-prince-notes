@@ -1,0 +1,4 @@
+DOORS IN THE WEST WING ARE MORE LIKELY TO BE LOCKED
+
+## Photos / Фото
+![01.jpg](01.jpg)
