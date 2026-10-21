@@ -12,3 +12,4 @@
 | Пешка | светлая (кремовая) | Bedroom (в шкафу-витрине) | [фото](bedroom-pawn.jpg) |
 | Пешка | белая | Dining Room (в посудном шкафу) | [фото](dining-room-pawn.jpg) |
 | Пешка | **чёрная** | Walk-in Closet (на полке) | [фото](walk-in-closet-pawn-black.jpg) |
+| Король | белый | Office (на книжной полке, рядом бюст) | [фото](office-king.jpg) |
