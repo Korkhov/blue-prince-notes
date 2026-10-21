@@ -18,10 +18,11 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.4 = H)
+- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.5 = S, 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.4 = H)
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
+- [ ] [Nursery](rooms/nursery/open-questions.md): кто такая Marion Marigold
 - [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
 
 ## Игровой прогресс
