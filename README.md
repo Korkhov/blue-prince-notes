@@ -25,7 +25,7 @@
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): что прячут листы нот
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
-- [ ] [Security](rooms/security/open-questions.md): мелкий шрифт на записке про memos
+- [ ] [Security](rooms/security/open-questions.md): правила цветных memos (кто такой Хартли?)
 - [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
