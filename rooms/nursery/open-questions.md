@@ -1,2 +1,2 @@
 # Nursery: открытые вопросы
-- [ ] Кто такая Marion Marigold? Не Мэри ли это (Герберт зовёт её «my marigold»)? ([книга](docs/the-red-prince-book/ru.md))
+- [x] Кто такая Marion Marigold? → **Мэри Мэттью Джонс**, мать Саймона (подтверждено газетой в [Archives](../archives/docs/newspaper-clippings-album/ru.md)). ([книга](docs/the-red-prince-book/ru.md))
