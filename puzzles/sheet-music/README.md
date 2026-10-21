@@ -3,10 +3,10 @@
 
 | № | Где найдено | Первое слово | Жирное слово | Папка |
 |---|---|---|---|---|
-| 1 | вместе с 2–4 | **Find** | first | [01](01/ru.md) |
-| 2 | вместе с 1, 3–4 | **Among** | words | [02](02/ru.md) |
-| 3 | вместе с 1–2, 4 | **The** | on | [03](03/ru.md) |
-| 4 | вместе с 1–3 | **White** | The | [04](04/ru.md) |
+| 1 | Music Room | **Find** | first | [01](01/ru.md) |
+| 2 | Music Room | **Among** | words | [02](02/ru.md) |
+| 3 | Music Room | **The** | on | [03](03/ru.md) |
+| 4 | Music Room | **White** | The | [04](04/ru.md) |
 | 5 | ⚠️ фото нет | **Trees** *(по ветке old)* | sheets *(по ветке old)* | — |
 | 6 | Ballroom | **Under** | are | [06](06/ru.md) |
 | 7 | Ballroom | **Two** | true | [07](07/ru.md) |
