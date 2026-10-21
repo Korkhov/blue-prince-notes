@@ -11,3 +11,4 @@
 | Ладья | белая | Nook (на книжной полке) | [фото](nook-rook.jpg) |
 | Пешка | светлая (кремовая) | Bedroom (в шкафу-витрине) | [фото](bedroom-pawn.jpg) |
 | Пешка | белая | Dining Room (в посудном шкафу) | [фото](dining-room-pawn.jpg) |
+| Пешка | **чёрная** | Walk-in Closet (на полке) | [фото](walk-in-closet-pawn-black.jpg) |
