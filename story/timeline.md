@@ -11,6 +11,7 @@
 - **Marion Marigold** = псевдоним **Мэри Мэттью Джонс** (подтверждено газетой). Детские книги «Red Prince» (дебют, медаль) и «Swim Bird» (медаль Herald, 1985). ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md), [газеты](../rooms/archives/docs/newspaper-clippings-album/ru.md)) ([книга](../rooms/nursery/docs/the-red-prince-book/ru.md))
 - **Вымогатели X**: анонимные шантажисты, «навсегда анонимный X». ([письмо](../rooms/office/docs/x-parting-letter-red-infinity/ru.md))
 - **Миссис Бэббидж**: управляющая домом (House Manager), к ней все вопросы персонала. ([объявление](../rooms/security/docs/staff-notice-terminals/ru.md))
+- **«Херби» и младший брат Саймон**: братья из старшего поколения, делили комнату (дневник в Bunk Room). Херби, вероятно, сам Герберт; Саймон-старший позже окончил колледж. ([дневник](../rooms/bunk-room/docs/brothers-diary-today-is-a-good-day/ru.md))
 - **Калеб Мэннинг**: писатель, наставник и друг Мэри; арестован Красной гвардией по делу о взрыве в Тринсдейле, судим за госизмену. ([газеты](../rooms/archives/docs/newspaper-clippings-album/ru.md))
 - **Филлип Уайт**: издатель Мэннинга (Ruffington Press).
 - **Гейл Гермес**: журналист Herald.
