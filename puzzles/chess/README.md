@@ -15,3 +15,4 @@
 | Король | белый | Office (на книжной полке, рядом бюст) | [фото](office-king.jpg) |
 | Пешка ×2 | тёмные (чёрные?) | Bunk Room (на полке, рядом видеокассета) | [фото](bunk-room-pawns-dark.jpg) |
 | Слон | **чёрный** | Rumpus Room (на клетчатом полу) | [фото](rumpus-room-bishop-black.jpg) |
+| Конь | белый | Security (на картотечном шкафу) | [фото](security-knight.jpg) |
