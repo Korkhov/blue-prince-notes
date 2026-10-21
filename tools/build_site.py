@@ -61,7 +61,7 @@ for dirpath, dirs, files in os.walk(OUT):
 # 2) страницы комнат
 rooms = []
 rdir = os.path.join(OUT, 'rooms')
-for r in sorted(os.listdir(rdir)):
+for r in (sorted(os.listdir(rdir)) if os.path.isdir(rdir) else []):
     p = os.path.join(rdir, r)
     if not os.path.isdir(p): continue
     sol = read(os.path.join(p, 'solutions.md')) if os.path.exists(os.path.join(p, 'solutions.md')) else ''
@@ -100,13 +100,13 @@ for dirpath, dirs, files in os.walk(ROOT):
             head, link = title_from(read(os.path.join(dirpath, f)), pretty(f[:-3])), f'/{rel}/{f}'
         todo.append(f'### [{head}]({link})\n' + fix_links(abs_links('\n'.join(items), rel)) + '\n')
 write(os.path.join(OUT, 'todo.md'), '\n'.join(todo))
-pages.append('/todo')
+pages.append('/todo'); pages.append('/howto')
 
 # 4) сайдбар
 def section(prefix):
     return sorted((k, v) for k, v in doc_index.items() if k.startswith(prefix))
-sb = ['- [🏠 Главная](/)', '- [❓ Что не решено](/todo)', '- [📜 Сюжет](/story/timeline.md)', '- 🧩 **Загадки**', '  - [Все загадки](/puzzles/README.md)']
-for d in sorted(os.listdir(os.path.join(OUT, 'puzzles'))):
+sb = ['- [🏠 Главная](/)', '- [❓ Что не решено](/todo)', '- [📜 Сюжет](/story/timeline.md)', '- 🧩 **Загадки**', '  - [Все загадки](/puzzles/)']
+for d in (sorted(os.listdir(os.path.join(OUT, 'puzzles'))) if os.path.isdir(os.path.join(OUT, 'puzzles')) else []):
     p = os.path.join(OUT, 'puzzles', d)
     if os.path.isdir(p): sb.append(f'  - [{pretty(d)}](/puzzles/{d}/)')
     elif d.endswith('.md') and d != 'README.md': sb.append(f'  - [{pretty(d[:-3])}](/puzzles/{d})')
@@ -121,20 +121,23 @@ for k, v in section('documents/'):
     sb.append(f'  - [{pretty(top)}](/documents/{top}/)')
     if not os.path.exists(os.path.join(OUT, 'documents', top, 'README.md')):
         pass
-sb.append('- [🎓 Обучение](/tutorials/)')
+if os.path.isdir(os.path.join(OUT, 'tutorials')): sb.append('- [🎓 Обучение](/tutorials/)')
+sb.append('- [📸 Как фотографировать](/howto)')
 write(os.path.join(OUT, '_sidebar.md'), '\n'.join(sb) + '\n')
 
 # 5) главная страница для телефона (вместо README репозитория)
 total_open = sum(c for _, _, c in rooms)
 home = ['# Blue Prince — заметки\n',
-        f'[❓ Что не решено](/todo) · [📜 Сюжет](/story/timeline.md) · [🧩 Загадки](/puzzles/README.md)\n',
+        f'[❓ Что не решено](/todo) · [📜 Сюжет](/story/timeline.md) · [🧩 Загадки](/puzzles/)\n',
         '> Поиск — в боковом меню (☰ внизу слева).\n',
-        '## 🚪 Комнаты\n' + '\n'.join(f'- [{n}](/rooms/{k}/)' + (f' — ❓ {c}' if c else ' — ✅') for k, n, c in rooms),
-        '\n## 📄 Документы без комнаты\n' + '\n'.join(sorted({f'- [{pretty(k.split("/")[1])}](/documents/{k.split("/")[1]}/)' for k in doc_index if k.startswith('documents/')}))]
+        '## 🚪 Комнаты\n' + ('' if rooms else '_Пока пусто._') + '\n'.join(f'- [{n}](/rooms/{k}/)' + (f' — ❓ {c}' if c else ' — ✅') for k, n, c in rooms),
+        '\n## 📄 Документы без комнаты\n' + ('' if any(k.startswith('documents/') for k in doc_index) else '_Пока пусто._') + '\n'.join(sorted({f'- [{pretty(k.split("/")[1])}](/documents/{k.split("/")[1]}/)' for k in doc_index if k.startswith('documents/')}))]
 readme = read(os.path.join(ROOT, 'README.md'))
 m = re.search(r'## Игровой прогресс.*', readme, re.S)
 if m: home.append('\n' + m.group(0).strip())
+home.insert(2, '> 📦 Первое прохождение — [ветка old](https://github.com/Korkhov/blue-prince-notes/tree/old). 📸 [Как фотографировать](/howto)\n')
 write(os.path.join(OUT, 'README.md'), '\n'.join(home) + '\n')
+write(os.path.join(OUT, 'howto.md'), read(os.path.join(ROOT, 'inbox', 'README.md')))
 
 # папки-серии без своей страницы (documents/foreman-logs и т.п.) уже имеют README.md
 write(os.path.join(OUT, 'search-paths.js'), 'window.SEARCH_PATHS = ' + json.dumps(sorted(set(pages))) + ';\n')

@@ -1,38 +1,24 @@
-# Blue Prince — заметки
+# Blue Prince — заметки (новое прохождение)
 
-Личная база: переводы документов, фото и решения загадок.
+Личная база: фото всех документов, книг и надписей из игры, транскрипция оригинала, перевод на русский, решения загадок.
+
+> 📦 Заметки первого прохождения — в ветке [`old`](https://github.com/Korkhov/blue-prince-notes/tree/old).
+> 📱 Сайт для телефона: https://korkhov.github.io/blue-prince-notes/
+
+## Как пользоваться
+1. Фотографируй в игре **всё** (см. [inbox/README.md](inbox/README.md)).
+2. Загружай фото в `inbox/` (Add file → Upload files).
+3. Попроси Claude: «разбери inbox».
 
 ## Структура
-- `rooms/<комната>/` — всё по комнате:
-  - `docs/<документ>/` — фото `01.jpg, 02.jpg…` + `en.md` (оригинал) + `ru.md` (перевод)
-  - `solutions.md` — решённое
-  - `open-questions.md` — нерешённое
+- `rooms/<комната>/` — всё по комнате: `docs/<документ>/` (фото + `en.md` + `ru.md`), `solutions.md`, `open-questions.md`
+- `rooms/library/books/<книга>/` — книги библиотеки
 - `documents/<документ>/` — записки, у которых комната неизвестна
-- `documents/foreman-logs/` — серия журналов прораба (встречаются в разных местах)
-- `puzzles/` — сквозные загадки (сейфы, буквы, шахматы, Мора Джай…)
+- `puzzles/` — загадки на несколько комнат
 - `story/timeline.md` — сюжет и персонажи
-- `tutorials/` — обучающие карточки игры
 
 ## Что ещё не решено
-Быстро найти: `grep -r "\[ \]" --include=open-questions.md`
-- Карта 8 царств в Room 46 → [rooms/room-46/open-questions.md](rooms/room-46/open-questions.md)
-- Открытки 2–8 → [rooms/inner-sanctum/open-questions.md](rooms/inner-sanctum/open-questions.md)
-- Room 8 (статуи и грехи) → [rooms/room-8/open-questions.md](rooms/room-8/open-questions.md)
-- Шкатулка Мора Джай (пятиугольники) → [puzzles/mora-jai-boxes/](puzzles/mora-jai-boxes/README.md)
-- Ключ ARCHIVE в Blackbridge → [rooms/blackbridge-grotto/open-questions.md](rooms/blackbridge-grotto/open-questions.md)
-- «SD» в записке из голубятни → [rooms/dovecote/open-questions.md](rooms/dovecote/open-questions.md)
-- «X Y Z A B C» / «sign» на вырезке, картотека → [rooms/archives/open-questions.md](rooms/archives/open-questions.md)
-- Карта сокровищ (X в клетке 6.2) → [documents/treasure-map](documents/treasure-map/ru.md)
-- Лист математики с «SIX … O R» → [documents/math-worksheet-six](documents/math-worksheet-six/ru.md)
-- Щиток V.A.C. — что даёт → [rooms/utility-closet/open-questions.md](rooms/utility-closet/open-questions.md)
-- Витражи Chapel → [rooms/chapel/open-questions.md](rooms/chapel/open-questions.md)
-- «DELETE IT!» (монитор A) → [documents/delete-it-monitors](documents/delete-it-monitors/ru.md)
-- Стих про 8 ключей → [documents/eight-keys-poem](documents/eight-keys-poem/ru.md)
-- Стих «лебедь и ворона» (шестиугольник) → [documents/swan-crow-poem](documents/swan-crow-poem/ru.md)
-- C-A-S-T-L-E в трещине → [rooms/the-precipice/open-questions.md](rooms/the-precipice/open-questions.md)
-- Письмо на неизвестном языке (Uldjora) → [documents/uldjora-letter](documents/uldjora-letter/ru.md)
-- Записка «I I O O», чертёж с заштрихованной клеткой → [documents/i-i-o-o-note](documents/i-i-o-o-note/ru.md), [documents/blueprint-scroll](documents/blueprint-scroll/ru.md)
-- Сюжетные вопросы → [story/timeline.md](story/timeline.md)
+_Пока пусто._
 
-## Игровой прогресс (на 19.10.2026)
-День ~?; Room 46 достигнута; Blackbridge открыт; шахматы, галерея, часы, лаборатория решены.
+## Игровой прогресс
+Новое прохождение начато 21.10.2026.

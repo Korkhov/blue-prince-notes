@@ -1,7 +1,0 @@
-REDDINGTON HERALD — "A NEW CLUE" SOLD OUT IN HOURS
-It should come as no surprise that the latest book from local author Marion Marigold is breaking literary records and making headlines even in absentia. The release of her new book, "A New Clue", comes only fourteen months after the distressful report of the author's mysterious and unexplained disappearance.
-Her current publisher has issued a statement debunking the conspiracy theories surrounding the book's recent announcement stating "The writing of the book was completed and well into the editing stages many months before [the disappearance]." In addition, the publisher has revealed that all of the proceeds from first edition sales of "A New Clue" will be going to LASTING HOPE, a non-profit organization that aims to provide resources and intel in the investigations of missing persons. Still, the timing and conveniently mysterious title of Marigold's third book has left many cynics denouncing the book and her disappearance as a cheap publicity stunt. Detective Bon Margle, who many theorize may have been the inspiration for "A New Clue", was quoted only saying that the book was "unintentionally accurate."
-Regardless of their opinions, fans, pundits and cynics alike were standing together, elbow to elbow in bookshop queues this morning eager to get their hands on what may very likely be the last words ever published by the missing author.
-
-## Photos / Фото
-![01.jpg](01.jpg)
