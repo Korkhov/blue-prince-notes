@@ -29,6 +29,7 @@
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
+- [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
 - [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber
 - [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
