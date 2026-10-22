@@ -31,6 +31,7 @@
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
+- [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
 - [ ] [Darkroom](rooms/darkroom/open-questions.md): инициалы на дереве и надпись на конверте (нужна лупа), горничные в фокусе
 - [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
