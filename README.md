@@ -45,6 +45,9 @@
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
 - [ ] [Laboratory](rooms/laboratory/open-questions.md): куда применить PUSH THREE UP AFTER NINE, питание от Boiler Room
+- [ ] [Abandoned Mine](rooms/abandoned-mine/open-questions.md): свечи в комнате со свечами
+- [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): записать механическую головоломку
+- [ ] [The Underpass](rooms/the-underpass/open-questions.md): красная дверь с блоком включения, Inner Sanctum
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): насосы 1–6, резервный бак
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md) / [питание от Boiler Room](puzzles/boiler-power.md): что делают машины
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, письмо от папы
