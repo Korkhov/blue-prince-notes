@@ -37,6 +37,7 @@
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
+- [ ] [Library](rooms/library/books/the-history-of-orindia/letter-margle/ru.md): где нецензурированный первый экземпляр «History of Orindia» / «настоящая рукопись» (письмо Маргла)
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
