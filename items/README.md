@@ -9,3 +9,4 @@
 - [Shovel](shovel/): лопата для копания
 - [Battery Pack](battery-pack/): батарейный блок, питание для устройств из Workshop
 - [Magnifying Glass](magnifying-glass/): лупа, рассматривать документы ближе
+- [Sledge Hammer](sledge-hammer/): кувалда, разбивает навесные замки на сундуках
