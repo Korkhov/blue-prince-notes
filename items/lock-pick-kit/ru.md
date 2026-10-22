@@ -5,7 +5,6 @@
 
 ## Заметка
 - Открывает не всегда и не любые двери (формулировка «occasionally», «some»).
-- На фоне экрана: карточка [Mail Room](../../rooms/mail-room/open-questions.md) с надписью «Your package has been delivered!» (посылка доставлена).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)
