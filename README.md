@@ -28,7 +28,7 @@
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): как выбрать питаемую комнату
 - [ ] [Tomb](rooms/tomb/open-questions.md): порядок статуй (по витражам) для Catacombs, свечи, второй гроб
 - [ ] [Catacombs](rooms/catacombs/open-questions.md): проход за статуей смерти, остальные части карты
-- [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
+- [ ] [Cloister](rooms/cloister/open-questions.md) / [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister (статуя в центре)
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory), все 8 листов сфотографированы
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
