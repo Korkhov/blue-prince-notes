@@ -9,7 +9,7 @@
 | [ ] | History of Orindia (First Edition) | 50 |
 | [ ] | A New Clue | 50 |
 | [ ] | The Curse of Black Bridge | 40 |
-| [ ] | Realm & Rune | 20 |
+| [x] | Realm & Rune | 20 |
 | [ ] | Drafting Strategy Vol. 4 | 8 |
 | [x] | Drafting Strategy Vol. 5 | 8 |
 
