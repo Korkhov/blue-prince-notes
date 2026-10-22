@@ -43,6 +43,7 @@
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, письмо от папы
 - [ ] [Maid's Chamber](rooms/maids-chamber/open-questions.md): кто на фото прислуги, Мила и витражи
 - [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber
+- [ ] [The Precipice](rooms/the-precipice/open-questions.md): шахматная доска, треснувшая стена, печати королевств
 - [ ] [Patio](rooms/patio/open-questions.md): ротонда со статуей вдали
 - [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
 
