@@ -30,10 +30,11 @@
 - [ ] [Catacombs](rooms/catacombs/open-questions.md): проход за статуей смерти, остальные части карты
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
-- [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory); осталось сфотографировать лист №5
+- [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory), все 8 листов сфотографированы
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
 - [ ] [Security](rooms/security/open-questions.md): правила цветных memos (кто такой Хартли?)
 - [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
+- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): рычаг Antechamber, разбиваемая стена
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»

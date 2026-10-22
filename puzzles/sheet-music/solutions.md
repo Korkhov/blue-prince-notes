@@ -8,10 +8,7 @@ first · words · on · the · *sheets* · are · true · message
 Find · Among · The · White · *Trees* · Under · Two · Stones
 → **FIND AMONG THE WHITE TREES UNDER TWO STONES** — «ищи среди белых деревьев под двумя камнями».
 
-⚠️ Лист №5 в этом прохождении не сфотографирован: его слова (*Trees*, *sheets*) взяты из ветки `old`. Они однозначно следуют из остальных листов.
+Лист №5 найден в Greenhouse, слова *Trees* и *sheets* подтверждены [фото](05/ru.md).
 
 ## Результат ✅ (проверено в игре)
 Место найдено в [Campsite](../../rooms/the-grounds/campsite/solutions.md) (белые деревья — берёзы вокруг лагеря): там оказался **секретный план комнаты Conservatory** (secret floorplan). Задача решена.
-
-## Осталось
-- [ ] Сфотографировать ноты №5 (для полноты; пока слова взяты из `old`).

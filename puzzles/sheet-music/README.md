@@ -7,7 +7,7 @@
 | 2 | Music Room | **Among** | words | [02](02/ru.md) |
 | 3 | Music Room | **The** | on | [03](03/ru.md) |
 | 4 | Music Room | **White** | The | [04](04/ru.md) |
-| 5 | ⚠️ фото нет | **Trees** *(по ветке old)* | sheets *(по ветке old)* | — |
+| 5 | Greenhouse | **Trees** | sheets | [05](05/ru.md) |
 | 6 | Ballroom | **Under** | are | [06](06/ru.md) |
 | 7 | Ballroom | **Two** | true | [07](07/ru.md) |
 | 8 | Workshop | **Stones** | message | [08](08/ru.md) |
