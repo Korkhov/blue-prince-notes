@@ -25,3 +25,4 @@
 - [Car Keys](car-keys/): запасные ключи от машины; машина должна быть в Garage
 - [Salt Shaker](salt-shaker/): солонка, дополнительные шаги при еде
 - [Keycard](keycard/): карта-пропуск, открывает электронные двери безопасности
+- [Basement Key](basement-key/): ключ от подвала, найден в Antechamber
