@@ -25,6 +25,7 @@
 - [ ] [Mora Jai](puzzles/mora-jai/README.md): искать остальные коробки (Trading Post уже открыта)
 - [ ] [Den](rooms/den/open-questions.md): свечи на журнальном столике
 - [ ] [Planetarium](rooms/planetarium/open-questions.md): как менять число звёзд, созвездие при 50
+- [ ] [Boiler Room](rooms/boiler-room/open-questions.md): как выбрать питаемую комнату
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): найти белые деревья и два камня (FIND AMONG THE WHITE TREES UNDER TWO STONES)
