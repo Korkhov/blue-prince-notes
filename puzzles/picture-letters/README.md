@@ -64,3 +64,6 @@
 | 9.2 | FLIGHT / LIGHT (биплан в полёте / керосиновая лампа) | F | комната не указана |
 | 9.4 | WHEAT / HEAT (сноп пшеницы / рука с горящей спичкой) | W | комната не указана |
 | 9.5 | CREATE / CRATE (рука рисует земной шар — «творить» / деревянный ящик) | E | Music Room |
+
+## Доска в Study
+Меловая доска «44 LETTERS in the message» и список «Unused Pairings» (Glove/Love, Sling/Sing, Crowd/Crow, Grown/Gown, Snack/Sack): [Study](../../rooms/study/docs/letters-chalkboard/ru.md). Записка про картины парами для каждой комнаты: [Study](../../rooms/study/docs/artwork-pairs-note/ru.md).
