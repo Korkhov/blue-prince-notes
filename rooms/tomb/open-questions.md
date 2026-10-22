@@ -4,6 +4,6 @@
 - [x] Что даёт зажигание свечей (два места): обе пары открывают тайные комнаты (кубики; гроб Клары Эпсен с ключом) ([решение](solutions.md))
 - [x] Чей второй гроб: Клары Эпсен ([решение](solutions.md))
 - [ ] Связь «воздвигни святилище» с внешней комнатой Shrine
-- [x] Ключ из гроба Клары: открыл спальню Клары ([Her Ladyship's Chamber](../her-ladyships-chamber/solutions.md))
+- [ ] Ключ из гроба Клары: открыть им дневник Клары в [Her Ladyship's Chamber](../her-ladyships-chamber/docs/locked-book-hourglass/ru.md) и записать содержание
 - [ ] Решить [Mora Jai](../../puzzles/mora-jai/tomb/ru.md) (песочные часы, фиолетовый угол)
 - [ ] Перевести письмо Uldjora ([документ](../../documents/orindian-letter-uldjora/ru.md))

@@ -1,10 +1,9 @@
 # Her Ladyship's Chamber: решено
-Комната Клары Эпсен (со слов пользователя: её спальня, ключ от которой лежал в её гробу в [Tomb](../tomb/solutions.md)); по [журналу Drafting Strategy](../library/books/drafting-strategy-vol-3/ru.md) связана с Boudoir и Walk-in Closet.
+Комната Клары Эпсен (её спальня). Ключ из её гроба в [Tomb](../tomb/solutions.md) откроет **дневник** (запертая книга, см. ниже), а не комнату (со слов пользователя). По [журналу Drafting Strategy](../library/books/drafting-strategy-vol-3/ru.md) связана с Boudoir и Walk-in Closet.
 
-Найдено в комнате (фото; кто на портретах, не установлено):
+Найдено в комнате (фото):
 - [Записка со спиралью «does it never end?»](docs/spiral-note-does-it-never-end/ru.md)
-- [Портрет: мужчина в круглых очках](docs/portrait-man-round-glasses/ru.md)
-- [Портрет: женщина с короткой причёской](docs/portrait-woman-short-hair/ru.md)
-- [Запертая книга с песочными часами](docs/locked-book-hourglass/ru.md)
-- [Медальон с песочными часами](docs/locket-hourglass/ru.md)
+- [Портрет: мужчина в круглых очках](docs/portrait-man-round-glasses/ru.md) и [портрет: женщина с короткой причёской](docs/portrait-woman-short-hair/ru.md): скорее всего **родители Клары**, лорд Уильям Эпсен и леди Эшлинн ([семейное древо](../root-cellar/docs/mount-holly-family-tree/ru.md)); со слов пользователя, подписей нет
+- [Запертая книга (дневник Клары) с песочными часами](docs/locked-book-hourglass/ru.md)
+- [Медальон с песочными часами](docs/locket-hourglass/ru.md): портрет её мужа, **Саймона Х. Синклера** (со слов пользователя)
 - Шахматная фигура: белый ферзь ([таблица](../../puzzles/chess/README.md)).
