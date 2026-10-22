@@ -35,6 +35,7 @@
 - [ ] [Security](rooms/security/open-questions.md): правила цветных memos (кто такой Хартли?)
 - [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
+- [ ] [The Grounds](rooms/the-grounds/open-questions.md): заколоченная дверь (разбиваемая), фонтан, тоннель, лифт
 - [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
 - [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
