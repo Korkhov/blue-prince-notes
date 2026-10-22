@@ -17,6 +17,7 @@
 - **Ангелы**: витражи Chapel — ангелы-покровители; **Рынна** — садоводства, **Мила** — горничных (?). Статуя **Ориндa** в Cloister.
 - **Мила**: горничная (статуэтка «MILA» в Maid's Chamber; возможно, витраж V в Chapel).
 - **Хартли**: камердинер (valet) Герберта; «memos в комнате Хартли всегда ложны». ([почта](../rooms/office/docs/terminal-emails-1993/ru.md))
+  Письмо Герберта Хартли о свободе и Lake House: [Servant's Quarters](../rooms/servants-quarters/docs/herbert-letter-to-hartley/ru.md).
 - **Гейб** (DCPOWER inc.): чинил щиток в 1993.
 - **Макгуайр, Маккиннели и Макдугал**: юристы Герберта.
 - **Кристоф**: шофёр Герберта; часто пропадает вместе с машиной. ([записка](../rooms/garage/docs/babbage-note-to-christoph/ru.md))
