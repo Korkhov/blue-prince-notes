@@ -26,6 +26,7 @@
 - [ ] [Den](rooms/den/open-questions.md): свечи на журнальном столике
 - [ ] [Planetarium](rooms/planetarium/open-questions.md): как менять число звёзд, созвездие при 50
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): как выбрать питаемую комнату
+- [ ] [Tomb](rooms/tomb/open-questions.md): порядок статуй для Catacombs, свечи, второй гроб
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory); осталось сфотографировать лист №5
