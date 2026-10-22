@@ -8,3 +8,4 @@
 - [Wind-Up Key](wind-up-key/): заводной ключ, деталь игры в Parlor
 - [Shovel](shovel/): лопата для копания
 - [Battery Pack](battery-pack/): батарейный блок, питание для устройств из Workshop
+- [Magnifying Glass](magnifying-glass/): лупа, рассматривать документы ближе
