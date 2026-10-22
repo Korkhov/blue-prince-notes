@@ -41,6 +41,7 @@
 - [ ] [Library](rooms/library/books/the-history-of-orindia/letter-margle/ru.md): где нецензурированный первый экземпляр «History of Orindia» / «настоящая рукопись» (письмо Маргла)
 - [ ] [Study](rooms/study/open-questions.md): письмо Калеба (Closed Exhibit, белые пески), доска «44 буквы», картины парами
 - [ ] [Shelter](rooms/shelter/open-questions.md): кто четверо в убежище (февр. '87), «лодка» после Pump Room
+- [ ] [Master Bedroom](rooms/master-bedroom/open-questions.md): решить Mora Jai (белые углы), «дядя» и концовка книги, портрет
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
