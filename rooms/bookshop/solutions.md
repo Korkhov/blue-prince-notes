@@ -11,7 +11,7 @@
 | [ ] | The Curse of Black Bridge | 40 |
 | [ ] | Realm & Rune | 20 |
 | [ ] | Drafting Strategy Vol. 4 | 8 |
-| [ ] | Drafting Strategy Vol. 5 | 8 |
+| [x] | Drafting Strategy Vol. 5 | 8 |
 
 (Список в магазине может меняться от дня к дню; записано, что было на фото.)
 
