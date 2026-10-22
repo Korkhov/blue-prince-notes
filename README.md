@@ -56,7 +56,7 @@
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): красная дверь с блоком включения, Inner Sanctum (8 закрытых комнат, рычаг Antechamber)
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): насосы 1–6, резервный бак
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md) / [питание от Boiler Room](puzzles/boiler-power.md): что делают машины
-- [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, ещё письма от Рэндольфа Мура, пароль сети SWANSONG (проверить на терминалах)
+- [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, ещё письма от Рэндольфа Мура
 - [ ] [Maid's Chamber](rooms/maids-chamber/open-questions.md): кто на фото прислуги, Мила и витражи
 - [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber
 - [ ] [The Precipice](rooms/the-precipice/open-questions.md): шахматная доска, треснувшая стена, печати королевств
