@@ -28,7 +28,7 @@
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): как выбрать питаемую комнату
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
-- [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): найти белые деревья и два камня (FIND AMONG THE WHITE TREES UNDER TWO STONES)
+- [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory); осталось сфотографировать лист №5
 - [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
 - [ ] [Security](rooms/security/open-questions.md): правила цветных memos (кто такой Хартли?)
 - [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
