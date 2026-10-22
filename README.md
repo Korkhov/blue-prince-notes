@@ -46,6 +46,7 @@
 - [ ] [Bookshop](rooms/bookshop/solutions.md): купить книги из списка (First Edition Orindia, A New Clue, Curse of Black Bridge, Realm & Rune, Drafting Strategy 4–5), отмечать в таблице
 - [ ] [Secret Garden](rooms/secret-garden/open-questions.md): разбиваемая стена, символ луны, как попасть; рычаг левой двери Antechamber найден
 - [ ] [Antechamber](rooms/antechamber/open-questions.md): какую дверь открывает Basement Key, записка «To continue up, you must go down»
+- [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): запертая книга с песочными часами, кто на портретах и в медальоне, записка со спиралью
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
