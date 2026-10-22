@@ -1,3 +1,4 @@
 # Trading Post: открытые вопросы
 
-- [ ] Решить [Mora Jai](../../puzzles/mora-jai/trading-post/ru.md) (в какую часть The Grounds входит комната, уточнить)
+- [x] Решить [Mora Jai](../../puzzles/mora-jai/trading-post/ru.md): открыта
+- [ ] В какую часть The Grounds входит комната

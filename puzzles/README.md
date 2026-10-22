@@ -6,4 +6,4 @@
 - [Четыре огня перед особняком](gas-flames.md): ✅ решено: все 4 зажжены, открылся лифт вниз
 - [Питание от Boiler Room](boiler-power.md): Laboratory, Laundry Room, Pump Room
 - [Сейфы](safes.md): открыто 4
-- [Mora Jai](mora-jai/README.md): коробки-головоломки, найдено 1 (Trading Post)
+- [Mora Jai](mora-jai/README.md): коробки-головоломки, 1 найдена и открыта (Trading Post)

@@ -22,7 +22,7 @@
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): фонтан (слив), факелы в тоннеле, лифт; [Private Drive](rooms/the-grounds/private-drive/open-questions.md): ворота и дверь; [Campsite](rooms/the-grounds/campsite/open-questions.md); [West Path](rooms/the-grounds/west-path/open-questions.md)
-- [ ] [Mora Jai](puzzles/mora-jai/README.md): решить найденные коробки (Trading Post)
+- [ ] [Mora Jai](puzzles/mora-jai/README.md): искать остальные коробки (Trading Post уже открыта)
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): найти белые деревья и два камня (FIND AMONG THE WHITE TREES UNDER TWO STONES)
