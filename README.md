@@ -44,6 +44,7 @@
 - [ ] [Foyer](rooms/foyer/open-questions.md): шесть бюстов, кто есть кто
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): число MCCXIII на гербе
 - [ ] [Servant's Quarters](rooms/servants-quarters/open-questions.md): зелёная записка про 12 major keys
+- [ ] [Conservatory](rooms/conservatory/open-questions.md): Bookshop, крылья дома из карточки
 - [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
