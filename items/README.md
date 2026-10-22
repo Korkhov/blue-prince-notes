@@ -16,3 +16,6 @@
 - [Deposit Box Key](deposit-box-key-304/): ключ, открывает ячейку 304
 - [Microchip](microchip/): микрочип с данными, подключается к устройству (Blackbridge Grotto)
 - [Burning Glass](burning-glass/): зажигательное стекло (лупа + металлодетектор в Workshop), зажигает особые свечи и фитили
+- [Sleep Mask](sleep-mask/): маска для сна, +5 шагов при первом входе в каждую спальню
+- [Watering Can](watering-can/): лейка, 1 самоцвет за каплю при первом входе в каждую зелёную комнату (3 капли)
+- [Coin Purse](coin-purse/): кошелёк, +1 монета за каждые 3 собранные
