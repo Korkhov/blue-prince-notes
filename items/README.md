@@ -13,3 +13,4 @@
 - [Lock Pick Kit](lock-pick-kit/): набор отмычек, иногда открывает запертые двери
 - [Compass](compass/): компас, чаще планы комнат с выходом на север
 - [Lucky Rabbit's Foot](lucky-rabbits-foot/): кроличья лапка, больше шанс найти предметы
+- [Deposit Box Key](deposit-box-key-304/): ключ, открывает ячейку 304
