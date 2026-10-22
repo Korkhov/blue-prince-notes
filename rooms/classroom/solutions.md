@@ -1,2 +1,3 @@
 # Classroom: решено
 - **Grade 2, Mathematics:** цвет цифры задаёт действие (голубой +, жёлтый −, розовый ×, фиолетовый ÷), считать слева направо. Ответы: 7, 13, 4, 1, 4, 12 и 10, 4, 2, 21, 18, 15. Выведено по оценкам учеников, **в игре не проверено**. ([доска](docs/grade-2-mathematics-board/ru.md), [листы](docs/grade-2-math-worksheets/ru.md))
+- **Grade 3, Science:** слова составляются из символов элементов. Water = W+At+Er; Ice = I+Ce; **Steam = S+Te+Am** (Касандра и Джейкоб ошиблись, по оценкам это следует). Выведено по оценкам, **в игре не проверено**. ([доска](docs/grade-3-science-board/ru.md), [листы](docs/grade-3-science-worksheets/ru.md), [таблица](docs/grade-3-periodic-table/ru.md))
