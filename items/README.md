@@ -14,3 +14,4 @@
 - [Compass](compass/): компас, чаще планы комнат с выходом на север
 - [Lucky Rabbit's Foot](lucky-rabbits-foot/): кроличья лапка, больше шанс найти предметы
 - [Deposit Box Key](deposit-box-key-304/): ключ, открывает ячейку 304
+- [Microchip](microchip/): микрочип с данными, подключается к устройству (Blackbridge Grotto)

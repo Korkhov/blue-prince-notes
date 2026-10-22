@@ -26,4 +26,4 @@ Pu·S·H·Th·Re·Eu·Pa·F·Te·Rn·I·Ne → **PUSH THREE UP AFTER NINE** («�
 - Требует питания из **Boiler Room** ([табличка](docs/boiler-power-sign/ru.md), [питание](../../puzzles/boiler-power.md)).
 - Панель: 10 рычагов (два ряда по пять, номера 1–10), шкала слева, лампа и две решётки внизу ([фото](photos/lever-panel.jpg)).
 - Подсказка «PUSH THREE UP AFTER NINE»: после подачи питания нажать **рычаг 9, затем рычаг 3** (рычаги ставятся вверх).
-- Результат: открылась **закрытая дверь снаружи** (вероятно, металлическая дверь в [Private Drive](../the-grounds/private-drive/solutions.md); пользователь писал про неё ранее), за ней проход в [Blackbridge Grotto](../blackbridge-grotto/solutions.md).
+- Результат: открылась **закрытая дверь снаружи** (металлическая дверь в [Private Drive](../the-grounds/private-drive/solutions.md), подтверждено), за ней проход в [Blackbridge Grotto](../blackbridge-grotto/solutions.md).

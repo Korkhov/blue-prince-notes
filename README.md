@@ -48,7 +48,7 @@
 - [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
-- [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): открыт через Laboratory, ещё не описан
+- [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): загадка с микрочипами (нужны ещё 2), терминал, заговор из логов
 - [ ] [Abandoned Mine](rooms/abandoned-mine/open-questions.md): свечи в комнате со свечами
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): записать механическую головоломку
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): красная дверь с блоком включения, Inner Sanctum (8 закрытых комнат, рычаг Antechamber)
