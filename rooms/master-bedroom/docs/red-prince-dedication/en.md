@@ -6,7 +6,7 @@ who opened many doors for me.
 Ever grateful,
 Mary
 
-*(faint small print under the signature, readable with the magnifying glass; reading is approximate:)*
+*(faint small print under the signature, readable with the magnifying glass; the photo is partly illegible, the meaning per the player: "they made me redo the ending, as you suspected")*
 p.s. they made me change the ending of
 course as you predicted
 
