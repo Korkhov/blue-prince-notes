@@ -12,3 +12,4 @@
 - [Sledge Hammer](sledge-hammer/): кувалда, разбивает навесные замки на сундуках
 - [Lock Pick Kit](lock-pick-kit/): набор отмычек, иногда открывает запертые двери
 - [Compass](compass/): компас, чаще планы комнат с выходом на север
+- [Lucky Rabbit's Foot](lucky-rabbits-foot/): кроличья лапка, больше шанс найти предметы
