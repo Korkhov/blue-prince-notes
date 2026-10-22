@@ -40,7 +40,6 @@
 - [ ] [Laboratory](rooms/laboratory/open-questions.md): куда применить PUSH THREE UP AFTER NINE, питание от Boiler Room
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): насосы 1–6, резервный бак
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md) / [питание от Boiler Room](puzzles/boiler-power.md): что делают машины
-- [ ] [Щиток Utility Room](rooms/office/solutions.md): проверить последовательность выкл·синий·зелёный·белый·красный·фиолетовый
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, письмо от папы
 - [ ] [Maid's Chamber](rooms/maids-chamber/open-questions.md): кто на фото прислуги, Мила и витражи
 - [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber

@@ -12,7 +12,7 @@
 ## Терминал и почта ✅
 - Пароль **SWANSONG**. Электронная почта открывается **только** с терминала Office. ([письма](docs/terminal-emails-1993/ru.md))
 
-## Щиток Utility Room (по почте и инструкции из Mail Room) — ⚠️ не проверено в игре
+## Щиток Utility Closet — ✅ решено, пошагово см. [Utility Closet](../utility-closet/solutions.md)
 Нужная последовательность 6 индикаторов: **выкл · синий · зелёный · белый · красный · фиолетовый**.
 Правила (из [инструкции DCPOWER](../mail-room/docs/utility-room-fusebox-manual/ru.md)):
 1. Нажать зелёный → синий.
