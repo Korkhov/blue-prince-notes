@@ -21,6 +21,7 @@
 - [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.5 = S, 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.3 = G, 2.4 = H, 2.5 = T, 3.1 = C, 3.2 = R, 3.3 = A, 3.4 = C, 3.5 = K, 4.1 = D, 4.2 = A, 4.3 = T, 4.4 = E, 4.5 = S, 5.1 = E, 5.2 = I, 5.3 = G, 5.4 = H, 5.5 = T, 6.1 = G, 6.2 = A, 6.3 = T, 6.4 = E, 6.5 = S, 7.1 = S, 7.2 = M, 7.3 = A, 7.4 = L, 7.5 = L, 8.1 = C, 8.2 = O, 8.3 = U, 8.4 = N, 9.1 = I, 9.2 = F, 9.4 = W, 9.5 = E)
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
+- [ ] [The Grounds](rooms/the-grounds/open-questions.md): фонтан (слив), факелы в тоннеле, лифт; [Private Drive](rooms/the-grounds/private-drive/open-questions.md): ворота и дверь; [Campsite](rooms/the-grounds/campsite/open-questions.md); [West Path](rooms/the-grounds/west-path/open-questions.md)
 - [ ] [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister
 - [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
 - [ ] [Ноты](puzzles/sheet-music/README.md) / [Workshop](rooms/workshop/open-questions.md): найти белые деревья и два камня (FIND AMONG THE WHITE TREES UNDER TWO STONES)

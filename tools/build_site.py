@@ -58,33 +58,47 @@ for dirpath, dirs, files in os.walk(OUT):
         doc_index[rel] = name
         pages.append('/' + rel + '/')
 
-# 2) страницы комнат
-rooms = []
-rdir = os.path.join(OUT, 'rooms')
-for r in (sorted(os.listdir(rdir)) if os.path.isdir(rdir) else []):
-    p = os.path.join(rdir, r)
-    if not os.path.isdir(p): continue
+# 2) страницы комнат (комнаты могут быть вложенными: rooms/the-grounds/campsite/)
+rooms = []        # только верхний уровень: (key, name, open_count)
+room_names = {}   # key (путь после rooms/) -> название
+NOT_ROOM = {'docs', 'books', 'photos'}
+def build_room(key):
+    p = os.path.join(OUT, 'rooms', key)
     sol = read(os.path.join(p, 'solutions.md')) if os.path.exists(os.path.join(p, 'solutions.md')) else ''
     oq = read(os.path.join(p, 'open-questions.md')) if os.path.exists(os.path.join(p, 'open-questions.md')) else ''
-    name = re.sub(r'\s+—\s+решения$', '', title_from(sol, pretty(r))) if sol else pretty(r)
-    out = [f'# {name}\n']
+    name = re.sub(r'\s+—\s+решения$', '', title_from(sol, pretty(os.path.basename(key)))) if sol else pretty(os.path.basename(key))
+    subs = sorted(d for d in os.listdir(p) if d not in NOT_ROOM and os.path.isdir(os.path.join(p, d)))
+    sub_res = [build_room(key + '/' + d) for d in subs]
     open_items = re.findall(r'^- \[ \].*$', oq, re.M)
-    if open_items: out.append(f'> ❓ Не решено: **{len(open_items)}**\n')
+    total = len(open_items) + sum(c for _, _, c in sub_res)
+    out = [f'# {name}\n']
+    if total: out.append(f'> ❓ Не решено: **{total}**\n')
     out.append('## ✅ Решения\n' + (fix_links(body_wo_title(sol)) or '_Пока пусто._'))
     out.append('\n## ❓ Открытые вопросы\n' + (fix_links(body_wo_title(oq)) or '_Нет._'))
+    if sub_res:
+        out.append('\n## 🗺 Части\n' + '\n'.join(f'- [{n}]({k.split("/")[-1]}/)' + (f' — ❓ {c}' if c else '') for k, n, c in sub_res))
     for sub, label in (('docs', '📄 Документы'), ('books', '📚 Книги')):
         sp = os.path.join(p, sub)
         if os.path.isdir(sp):
             items = sorted(d for d in os.listdir(sp) if os.path.isdir(os.path.join(sp, d)))
             if items:
                 out.append(f'\n## {label}\n' + '\n'.join(f'- [{pretty(d)}]({sub}/{d}/)' for d in items))
+    ph = os.path.join(p, 'photos')
+    if os.path.isdir(ph):
+        imgs = photos(ph)
+        if imgs:
+            out.append('\n## 📷 Фото места\n' + '\n'.join(f'![{i}](photos/{i})' for i in imgs))
     write(os.path.join(p, 'README.md'), '\n'.join(out) + '\n')
-    rooms.append((r, name, len(open_items)))
-    pages.append(f'/rooms/{r}/')
+    room_names[key] = name
+    pages.append(f'/rooms/{key}/')
+    return key, name, total
+rdir = os.path.join(OUT, 'rooms')
+for r in (sorted(os.listdir(rdir)) if os.path.isdir(rdir) else []):
+    if os.path.isdir(os.path.join(rdir, r)):
+        rooms.append(build_room(r))
 
 # 3) «Что не решено» — все открытые вопросы (по исходным файлам)
 todo = ['# ❓ Что не решено\n', '_Собрано автоматически из всех `open-questions.md` и других заметок с `- [ ]`._\n']
-room_names = {k: n for k, n, _ in rooms}
 for dirpath, dirs, files in os.walk(ROOT):
     dirs[:] = sorted(d for d in dirs if d not in SKIP)
     rel = os.path.relpath(dirpath, ROOT).replace(os.sep, '/')
@@ -92,8 +106,8 @@ for dirpath, dirs, files in os.walk(ROOT):
         if not f.endswith('.md') or f == 'en.md' or rel == '.': continue
         items = re.findall(r'^- \[ \].*$', read(os.path.join(dirpath, f)), re.M)
         if not items: continue
-        if rel.startswith('rooms/') and rel.count('/') == 1:
-            head, link = room_names.get(rel.split('/')[1], pretty(rel)), f'/{rel}/'
+        if rel.startswith('rooms/') and rel[6:] in room_names:
+            head, link = room_names[rel[6:]], f'/{rel}/'
         elif f == 'ru.md':
             head, link = doc_index.get(rel, pretty(os.path.basename(rel))), f'/{rel}/'
         else:
