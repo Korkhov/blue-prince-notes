@@ -17,7 +17,7 @@
 - **Quick Start Guide:** 1) Панелью выбрать источник воды. 2) Рычагом насоса задать направление потока.
 
 ## Заметка
-- Объясняет схему из [Pump Room](../../../pump-room/solutions.md): выбор источника кнопкой, направление насоса рычагом, переключатель бака. Связь с Reservoir (уровень воды 13): [Reservoir](../../../abandoned-mine/reservoir/solutions.md).
+- Объясняет схему из [Pump Room](../../../pump-room/open-questions.md): выбор источника кнопкой, направление насоса рычагом, переключатель бака. Связь с Reservoir (уровень воды 13): [Reservoir](../../../abandoned-mine/reservoir/solutions.md).
 - Опечатка в оригинале: «functon».
 
 ## Photos / Фото
