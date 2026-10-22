@@ -126,6 +126,7 @@ for d in (sorted(os.listdir(os.path.join(OUT, 'puzzles'))) if os.path.isdir(os.p
     elif d.endswith('.md') and d != 'README.md': sb.append(f'  - [{pretty(d[:-3])}](/puzzles/{d})')
 sb.append('- 🚪 **Комнаты**')
 sb += [f'  - [{n}{" ❓" + str(c) if c else ""}](/rooms/{k}/)' for k, n, c in rooms]
+sb.append('- [🎒 Предметы](/items/)')
 sb.append('- 📄 **Документы (комната неизвестна)**')
 seen = set()
 for k, v in section('documents/'):
@@ -142,7 +143,7 @@ write(os.path.join(OUT, '_sidebar.md'), '\n'.join(sb) + '\n')
 # 5) главная страница для телефона (вместо README репозитория)
 total_open = sum(c for _, _, c in rooms)
 home = ['# Blue Prince — заметки\n',
-        f'[❓ Что не решено](/todo) · [📜 Сюжет](/story/timeline.md) · [🧩 Загадки](/puzzles/)\n',
+        f'[❓ Что не решено](/todo) · [📜 Сюжет](/story/timeline.md) · [🧩 Загадки](/puzzles/) · [🎒 Предметы](/items/)\n',
         '> Поиск — в боковом меню (☰ внизу слева).\n',
         '## 🚪 Комнаты\n' + ('' if rooms else '_Пока пусто._') + '\n'.join(f'- [{n}](/rooms/{k}/)' + (f' — ❓ {c}' if c else ' — ✅') for k, n, c in rooms),
         '\n## 📄 Документы без комнаты\n' + ('' if any(k.startswith('documents/') for k in doc_index) else '_Пока пусто._') + '\n'.join(sorted({f'- [{pretty(k.split("/")[1])}](/documents/{k.split("/")[1]}/)' for k in doc_index if k.startswith('documents/')}))]
