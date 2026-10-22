@@ -41,6 +41,7 @@
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
 - [ ] [Darkroom](rooms/darkroom/open-questions.md): инициалы на дереве и надпись на конверте (нужна лупа), горничные в фокусе
+- [ ] [Foyer](rooms/foyer/open-questions.md): шесть бюстов, кто есть кто
 - [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
