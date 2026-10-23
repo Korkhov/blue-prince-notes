@@ -33,7 +33,7 @@
 - [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
 - [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Разбиваемая стена (похоже на такую же, как в Weight Room и The Precipice): чем разбить и что за ней
-- [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Открыть дневник Клары (запертая книга) ключом из её гроба в Tomb и записать содержание; Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb
+- [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb; Рисунок на последней странице дневника: река и тропинка к квадратному строению, зачем он здесь
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md): Стиральные машины питаются от Boiler Room. Что они делают, если запитать
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Получить как можно больше писем Рэндольфа
 - [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
@@ -44,9 +44,9 @@
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Тоннель: чем и как зажигаются факелы; куда ведёт тоннель; Заколоченная дверь: чем разбить (см. также разбиваемые стены в Weight Room) и что за ней
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
+- [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
 - [ ] [The Precipice](rooms/the-precipice/open-questions.md): Треснувшая стена: чем разбить, что за ней
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
-- [ ] [Tomb](rooms/tomb/open-questions.md): Ключ из гроба Клары: открыть им дневник Клары в Her Ladyship's Chamber и записать содержание; Перевести письмо Uldjora
 - [ ] [Trading Post](rooms/trading-post/open-questions.md): Динамит можно поджечь
 - [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): Стену можно разбить: чем и что за ней? Такая же стена в The Precipice; Рычаг Antechamber в Weight Room: письмо от 24 янв 1987 о нём обрывается (почта Security 1987); где этот рычаг

@@ -14,3 +14,4 @@
 - Свечи в двух местах открывают тайные комнаты: кубики и гроб Клары Эпсен с ключом.
 - Второй гроб — Клары Эпсен.
 - [Mora Jai](../../puzzles/mora-jai/tomb/ru.md) решена.
+- Ключ из гроба Клары открыл её [дневник](../her-ladyships-chamber/docs/clara-sleep-diary/ru.md) в Her Ladyship's Chamber.

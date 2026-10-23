@@ -7,3 +7,4 @@
 - [Запертая книга (дневник Клары) с песочными часами](docs/locked-book-hourglass/ru.md)
 - [Медальон с песочными часами](docs/locket-hourglass/ru.md): портрет её мужа, **Саймона Х. Синклера**
 - Шахматная фигура: белый ферзь ([таблица](../../puzzles/chess/README.md)).
+- Дневник Клары открыт ключом из её гроба в [Tomb](../tomb/solutions.md): [Her Ladyship's Sleep Diary](docs/clara-sleep-diary/ru.md) (17–28 января 1979, сон в спальнях поместья).
