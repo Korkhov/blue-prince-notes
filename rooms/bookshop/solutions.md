@@ -6,7 +6,7 @@
 
 | Куплено | Книга | Цена |
 |---|---|---|
-| [x] | History of Orindia (First Edition) | 50 |
+| [x] | [History of Orindia (First Edition)](../library/books/the-history-of-orindia-first-edition/ru.md) | 50 |
 | [ ] | A New Clue | 50 |
 | [x] | The Curse of Black Bridge | 40 |
 | [x] | Realm & Rune | 20 |
