@@ -51,7 +51,6 @@
 - [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа
 - [ ] [Weight Room](rooms/weight-room/open-questions.md): Стену можно разбить: чем и что за ней? Такая же стена в The Precipice; Рычаг Antechamber в Weight Room: письмо от 24 янв 1987 о нём обрывается (почта Security 1987); где этот рычаг
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
-- [ ] [Workshop](rooms/workshop/open-questions.md): Записка «Workshop idea»: Lock Pick Kit + Metal Detector — что получится при комбинировании
 
 ## Игровой прогресс
 Новое прохождение начато 21.10.2026.
