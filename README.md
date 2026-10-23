@@ -51,6 +51,7 @@
 - [ ] [Basement](rooms/basement/open-questions.md): тележки, разбивающаяся стена, статуи
 - [ ] [Room 8](rooms/room-8/open-questions.md): уточнить корзину собаки
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): рассмотреть сейф через лупу
+- [ ] [Room 46](rooms/room-46/open-questions.md): ключи 1-2 забрать, 5-8 найти; карта с булавками; записка про 8 писем
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
