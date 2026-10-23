@@ -1,3 +1,3 @@
 # Gallery: открытые вопросы
-- [ ] Что в Room 8 (где она, что за загадка; см. трофей «Trophy 8»: Room 8 на Rank 8)
+- [x] Room 8: решена, награда 2 Allowance Token и Trophy 8 ([Room 8](../room-8/solutions.md))
 - [ ] Меняются ли картины от дня к дню

@@ -49,7 +49,7 @@
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): запертая книга с песочными часами, кто на портретах и в медальоне, записка со спиралью
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): учёт покупок, Blue Tents после 8 трофеев
 - [ ] [Basement](rooms/basement/open-questions.md): тележки, разбивающаяся стена, статуи
-- [ ] [Gallery](rooms/gallery/open-questions.md): ключ от Room 8 получен, найти Room 8
+- [ ] [Room 8](rooms/room-8/open-questions.md): уточнить корзину собаки
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»

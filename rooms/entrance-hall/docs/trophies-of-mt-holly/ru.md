@@ -22,6 +22,7 @@ Entrance Hall. Список трофеев («Признание выдающи�
 - [ ] **Trophy of Trophies**: заполнить Trophy Case
 
 ## Заметка
+- Trophy 8: решена Room 8 ([решение](../../../room-8/solutions.md)).
 - Inheritance получен (письмо [«Дорогой Барон»](../baron-inheritance-letter/ru.md)).
 - Про «Sigils»: см. [Classroom Grade 4](../../../classroom/docs/grade-4-geography-board/ru.md) (8 регионов, предположение).
 
