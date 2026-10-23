@@ -48,6 +48,7 @@
 - [ ] [Antechamber](rooms/antechamber/open-questions.md): какую дверь открывает Basement Key, записка «To continue up, you must go down»
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): запертая книга с песочными часами, кто на портретах и в медальоне, записка со спиралью
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): учёт покупок, Blue Tents после 8 трофеев
+- [ ] [Basement](rooms/basement/open-questions.md): тележки, разбивающаяся стена, статуи
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
