@@ -52,6 +52,7 @@
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): рассмотреть сейф через лупу
 - [ ] [Room 46](rooms/room-46/open-questions.md): ключи 1-2 забрать, 5-8 найти; карта с булавками; записка про 8 писем
 - [ ] [Observatory](rooms/observatory/open-questions.md): план этажа в отсеке для линз телескопа (письмо Рэндольфа)
+- [ ] [Inner Sanctum 1](rooms/the-underpass/inner-sanctum-1/open-questions.md): Mora Jai (Orinda Aries), углы должны быть чёрными
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
@@ -64,7 +65,6 @@
 - [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
 - [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
 - [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): загадка с микрочипами (нужны ещё 2), терминал, заговор из логов
-- [ ] [Abandoned Mine](rooms/abandoned-mine/open-questions.md): свечи в комнате со свечами
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): записать механическую головоломку
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): красная дверь с блоком включения, Inner Sanctum (8 закрытых комнат, рычаг Antechamber)
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): насосы 1–6, резервный бак
