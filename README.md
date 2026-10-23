@@ -47,7 +47,7 @@
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
-- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Что за треснувшей стеной
+- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Загадка CASTLE за разбитой стеной
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
 - [ ] [Trading Post](rooms/trading-post/open-questions.md): Динамит можно поджечь
 - [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа

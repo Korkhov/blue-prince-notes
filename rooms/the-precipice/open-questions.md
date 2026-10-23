@@ -1,2 +1,2 @@
 # The Precipice: открытые вопросы
-- [ ] Что за треснувшей стеной (разбить [Power Hammer](../workshop/docs/recipe-power-hammer/ru.md)) ([фото](docs/cracked-wall/ru.md))
+- [ ] Загадка **CASTLE** за разбитой стеной: по вертикали буквы C, A, S, T, L, E, после каждой два пустых места ([фото](photos/castle-puzzle.jpg))
