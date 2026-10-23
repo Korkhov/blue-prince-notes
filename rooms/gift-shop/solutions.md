@@ -3,7 +3,7 @@
 
 | Куплено | Товар | Цена |
 |---|---|---|
-| [ ] | Mt. Holly Tee (футболка) | 10 |
+| [x] | Mt. Holly Tee (футболка) | 10 |
 | [x] | Lunch Box | 15 |
 | [x] | Swim Trunks | 40 |
 | [ ] | Dirigiblocks (Console Edition) | ??? |
