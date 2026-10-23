@@ -14,7 +14,7 @@
 - В легенде под пунктом 9 «To North Lever» мелким рукописным шрифтом: **«10. Buried Floorplan»** ([фото 2](02.jpg)). Рядом видны 1. Foundation Elevator, 2. Concealed Entrance, 8. Rotating Gear.
 - На самой карте цифра **10** стоит **в районе Basement**, в деревянной части плана, под ней мелкая подпись (нечитаема) ([фото 3](03.jpg)). Со слов пользователя, это положение «Buried plan» в [Basement](../../../../basement/solutions.md).
 - Надпись «2» у Basement на карте, по легенде, **Concealed Entrance** (скрытый вход).
-- Не проверено: связано ли это с [разбивающейся стеной в Basement](../../../../basement/solutions.md); что именно спрятано (секретный план этажа?).
+- **Решено (со слов пользователя):** в Basement выкопан секретный floorplan **Lost & Found**; пункт 10 указывал на него. Связь с [разбивающейся стеной](../../../../basement/solutions.md) не установлена.
 - **9 — To North Lever**: ср. [North lever (underground) в схеме Antechamber](../../../../basement/docs/antechamber-entry-controls/ru.md).
 
 ## Заметка

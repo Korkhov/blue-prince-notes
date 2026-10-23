@@ -48,7 +48,7 @@
 - [ ] [Antechamber](rooms/antechamber/open-questions.md): какую дверь открывает Basement Key, записка «To continue up, you must go down»
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): запертая книга с песочными часами, кто на портретах и в медальоне, записка со спиралью
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): учёт покупок, Blue Tents после 8 трофеев
-- [ ] [Basement](rooms/basement/open-questions.md): тележки, разбивающаяся стена, статуи
+- [ ] [Basement](rooms/basement/open-questions.md): разбивающаяся стена, статуи
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): рассмотреть сейф через лупу
 - [ ] [Room 46](rooms/room-46/open-questions.md): ключи 1-2 забрать, 5-8 найти; карта с булавками; записка про 8 писем
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
