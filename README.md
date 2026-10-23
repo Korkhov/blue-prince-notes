@@ -24,7 +24,7 @@
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
 - [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): Где найти два недостающих микрочипа и что даёт подключение всех трёх
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
-- [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги и записать содержание: History of Orindia (First Edition), A New Clue, The Curse of Black Bridge, Realm & Rune, Drafting Strategy Vol. 4 и 5 (список); History of Orindia (First Edition): нецензурированное издание, о котором писал Маргл
+- [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги: A New Clue, Drafting Strategy Vol. 4; Записать содержание купленных History of Orindia (First Edition) и The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат
 - [ ] [Chapel](rooms/chapel/open-questions.md): Зачем зажигать свечи на алтаре
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона

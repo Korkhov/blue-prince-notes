@@ -6,9 +6,9 @@
 
 | Куплено | Книга | Цена |
 |---|---|---|
-| [ ] | History of Orindia (First Edition) | 50 |
+| [x] | History of Orindia (First Edition) | 50 |
 | [ ] | A New Clue | 50 |
-| [ ] | The Curse of Black Bridge | 40 |
+| [x] | The Curse of Black Bridge | 40 |
 | [x] | Realm & Rune | 20 |
 | [ ] | Drafting Strategy Vol. 4 | 8 |
 | [x] | Drafting Strategy Vol. 5 | 8 |
