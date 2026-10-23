@@ -10,7 +10,7 @@
 ## Заметка
 - Слово **message** выделено жирным.
 - «Stones cut by hand, letters wrought» — камни с буквами (как камень S в Workshop).
-- «The note is read, the letter is not» — возможно, надо читать названия нот (буквы A–G) в мелодии, а не текст. Пока не проверено.
+- «The note is read, the letter is not» — возможно, надо читать названия нот (буквы A–G) в мелодии, а не текст.
 
 ## Photos / Фото
 ![01.jpg](01.jpg)

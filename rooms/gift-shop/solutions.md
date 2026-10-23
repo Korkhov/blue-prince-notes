@@ -6,11 +6,9 @@
 | [x] | Mt. Holly Tee (футболка) | 10 |
 | [x] | Lunch Box | 15 |
 | [x] | Swim Trunks | 40 |
-| [ ] | Dirigiblocks (Console Edition) | ??? |
 | [ ] | Swim Bird Plushie | 110 |
 | [ ] | Blue Tents | ??? |
 
-- **Blue Tents** открывается только после получения **8 трофеев** (со слов пользователя; [список трофеев](../entrance-hall/docs/trophies-of-mt-holly/ru.md)).
+- **Blue Tents** открывается только после получения **8 трофеев** ([список трофеев](../entrance-hall/docs/trophies-of-mt-holly/ru.md)).
 - Цены на фото частично срезаны краем кадра (первая цифра могла не попасть в кадр); при следующем визите стоит сверить.
-- На прилавке видны карточки Dirigiblocks.
-- Куплено на данный момент: Lunch Box, Swim Trunks.
+- Куплено на данный момент: Mt. Holly Tee, Lunch Box, Swim Trunks.

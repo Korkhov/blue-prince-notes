@@ -1,5 +1,5 @@
 # Ключ от подвала (Basement Key)
-Золотой ключ с красным камнем и шестерёнками в головке. На экране находки описания эффекта нет; открывает проход в [Basement](../../rooms/basement/solutions.md) через Foundation (со слов пользователя).
+Золотой ключ с красным камнем и шестерёнками в головке. На экране находки описания эффекта нет; открывает проход в [Basement](../../rooms/basement/solutions.md) через Foundation.
 
 Найден в [Antechamber](../../rooms/antechamber/solutions.md): лежал на белом постаменте рядом с запиской [«To continue up, you must go down»](../../rooms/antechamber/docs/pedestal-note-go-down/ru.md).
 

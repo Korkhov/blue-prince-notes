@@ -1,5 +1,5 @@
 # «Realm & Rune: Sigils of the Past and Present» (проф. Р. Уиллард, 1905), целая копия
-Library. Целый экземпляр той же книги, что порванная копия в [The Precipice](../../../the-precipice/docs/realm-sigils-book/ru.md) (там оторваны названия и часть текста; **здесь они есть**). Fenn Aries, Robert Bird & Sons, 1905. В формуляре: **29 нояб. 1993, Simon P. Jones** (от руки). В [Bookshop](../../../bookshop/open-questions.md) такая книга куплена.
+Library. Целый экземпляр той же книги, что порванная копия в [The Precipice](../../../the-precipice/docs/realm-sigils-book/ru.md) (там оторваны названия и часть текста; **здесь они есть**). Fenn Aries, Robert Bird & Sons, 1905. В формуляре: **29 нояб. 1993, Simon P. Jones** (от руки). В [Bookshop](../../../bookshop/solutions.md) такая книга куплена.
 
 ## Суть
 **Печати королевств (Realm Sigils)**: круглые знаки на королевских артефактах, зданиях и старых документах. Каждая из **4 частей** рассказывает о королевстве.

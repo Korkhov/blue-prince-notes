@@ -18,63 +18,41 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Буквы по клеткам плана](puzzles/picture-letters/README.md): собрать пары картин во всех клетках 9×5 (есть: 1.5 = S, 1.1 = S, 1.2 = A, 1.3 = F, 1.4 = E, 2.1 = E, 2.2 = I, 2.3 = G, 2.4 = H, 2.5 = T, 3.1 = C, 3.2 = R, 3.3 = A, 3.4 = C, 3.5 = K, 4.1 = D, 4.2 = A, 4.3 = T, 4.4 = E, 4.5 = S, 5.1 = E, 5.2 = I, 5.3 = G, 5.4 = H, 5.5 = T, 6.1 = G, 6.2 = A, 6.3 = T, 6.4 = E, 6.5 = S, 7.1 = S, 7.2 = M, 7.3 = A, 7.4 = L, 7.5 = L, 8.1 = C, 8.2 = O, 8.3 = U, 8.4 = N, 9.1 = I, 9.2 = F, 9.4 = W, 9.5 = E)
 - [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
-- [ ] [The Grounds](rooms/the-grounds/open-questions.md): заколоченная дверь (разбиваемая), фонтан (слив), факелы в тоннеле, лифт; [Private Drive](rooms/the-grounds/private-drive/open-questions.md): ворота и дверь; [Campsite](rooms/the-grounds/campsite/open-questions.md); [West Path](rooms/the-grounds/west-path/open-questions.md)
-- [ ] [Mora Jai](puzzles/mora-jai/README.md): искать остальные коробки (Trading Post уже открыта)
-- [ ] [Den](rooms/den/open-questions.md): свечи на журнальном столике
-- [ ] [Planetarium](rooms/planetarium/open-questions.md): как менять число звёзд, созвездие при 50
-- [ ] [Boiler Room](rooms/boiler-room/open-questions.md): как выбрать питаемую комнату
-- [ ] [Tomb](rooms/tomb/open-questions.md): порядок статуй (по витражам) для Catacombs; ключ из гроба Клары для её спальни; Mora Jai (песочные часы, фиолетовый); письмо Uldjora
-- [ ] [Catacombs](rooms/catacombs/open-questions.md): проход за статуей смерти, остальные части карты
-- [ ] [Cloister](rooms/cloister/open-questions.md) / [Apple Orchard](rooms/apple-orchard/open-questions.md): как попасть во внутренний двор Cloister (статуя в центре)
-- [ ] [Archives](rooms/archives/open-questions.md): суд над Мэннингом, исчезновение Мэри, Рубиновая корона
-- [ ] [Ноты](puzzles/sheet-music/solutions.md): решено (Campsite, план Conservatory), все 8 листов сфотографированы
-- [ ] [Bedroom](rooms/bedroom/open-questions.md): женщина с подвеской-луной, оборот открытки
-- [ ] [Security](rooms/security/open-questions.md): правила цветных memos (кто такой Хартли?)
-- [ ] [West Wing Hall](rooms/west-wing-hall/open-questions.md): леди Клара Эпсен, траур 1983
-- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): сломанный рычаг Antechamber (нужен предмет Broken Lever), разбиваемая стена
-- [ ] [Weight Room](rooms/weight-room/open-questions.md): разбиваемая стена
-- [ ] [Walk-in Closet](rooms/walk-in-closet/open-questions.md): девушка с родинкой
-- [ ] [Bunk Room](rooms/bunk-room/open-questions.md): Херби и Саймон, кассета «Trinsdale Mystery»
 - [ ] [Library](rooms/library/books/the-history-of-orindia/letter-margle/ru.md): где нецензурированный первый экземпляр «History of Orindia» / «настоящая рукопись» (письмо Маргла)
-- [ ] [Study](rooms/study/open-questions.md): письмо Калеба (Closed Exhibit, белые пески), доска «44 буквы», картины парами
-- [ ] [Shelter](rooms/shelter/open-questions.md): кто четверо в убежище (февр. '87), «лодка» после Pump Room
-- [ ] [Master Bedroom](rooms/master-bedroom/open-questions.md): решить Mora Jai (белые углы), «дядя» и концовка книги, портрет, пульт лифта Foundation
-- [ ] [Great Hall](rooms/great-hall/open-questions.md): рычаг правой двери Antechamber (за какой дверью, что даёт)
-- [ ] [Bookshop](rooms/bookshop/solutions.md): купить книги из списка (First Edition Orindia, A New Clue, Curse of Black Bridge, Realm & Rune, Drafting Strategy 4–5), отмечать в таблице
-- [ ] [Secret Garden](rooms/secret-garden/open-questions.md): разбиваемая стена, символ луны, как попасть; рычаг левой двери Antechamber найден
-- [ ] [Antechamber](rooms/antechamber/open-questions.md): какую дверь открывает Basement Key, записка «To continue up, you must go down»
-- [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): запертая книга с песочными часами, кто на портретах и в медальоне, записка со спиралью
-- [ ] [Gift Shop](rooms/gift-shop/open-questions.md): учёт покупок, Blue Tents после 8 трофеев
-- [ ] [Basement](rooms/basement/open-questions.md): разбивающаяся стена, статуи
-- [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): рассмотреть сейф через лупу
-- [ ] [Room 46](rooms/room-46/open-questions.md): ключи 1-2 забрать, 5-8 найти; карта с булавками; записка про 8 писем
-- [ ] [Observatory](rooms/observatory/open-questions.md): план этажа в отсеке для линз телескопа (письмо Рэндольфа)
-- [ ] [Inner Sanctum 1](rooms/the-underpass/inner-sanctum-1/open-questions.md): Mora Jai (Orinda Aries), углы должны быть чёрными
-- [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
-- [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
-- [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
-- [ ] [Darkroom](rooms/darkroom/open-questions.md): инициалы на дереве и надпись на конверте (нужна лупа), горничные в фокусе
-- [ ] [Foyer](rooms/foyer/open-questions.md): шесть бюстов, кто есть кто
-- [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): число MCCXIII на гербе
-- [ ] [Servant's Quarters](rooms/servants-quarters/open-questions.md): зелёная записка про 12 major keys
-- [ ] [Conservatory](rooms/conservatory/open-questions.md): Bookshop, крылья дома из карточки
-- [ ] [Furnace](rooms/furnace/open-questions.md): подача питания, что она питает
-- [ ] [Gemstone Cavern](rooms/gemstone-cavern/open-questions.md): вагонетка в туннелях, 2 камня в день
-- [ ] [Kitchen](rooms/kitchen/open-questions.md): на кран можно нажать
-- [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): загадка с микрочипами (нужны ещё 2), терминал, заговор из логов
-- [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): записать механическую головоломку
-- [ ] [The Underpass](rooms/the-underpass/open-questions.md): красная дверь с блоком включения, Inner Sanctum (8 закрытых комнат, рычаг Antechamber)
-- [ ] [Pump Room](rooms/pump-room/open-questions.md): насосы 1–6, резервный бак
-- [ ] [Laundry Room](rooms/laundry-room/open-questions.md) / [питание от Boiler Room](puzzles/boiler-power.md): что делают машины
-- [ ] [Mail Room](rooms/mail-room/open-questions.md): Денни Ревейн, ещё письма от Рэндольфа Мура
-- [ ] [Maid's Chamber](rooms/maids-chamber/open-questions.md): кто на фото прислуги, Мила и витражи
-- [ ] [Office](rooms/office/open-questions.md): двойной портрет, где западный/восточный рычаги Antechamber
-- [ ] [The Precipice](rooms/the-precipice/open-questions.md): шахматная доска, треснувшая стена, печати королевств
-- [ ] [Patio](rooms/patio/open-questions.md): ротонда со статуей вдали
-- [ ] [Parlor](rooms/parlor/open-questions.md): кто на портрете
+- [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
+- [ ] [Basement](rooms/basement/open-questions.md): Разбивающаяся стена: чем разбить и что за ней; Зачем статуи, связь со статуями Chapel
+- [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): Где найти два недостающих микрочипа и что даёт подключение всех трёх
+- [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
+- [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги и записать содержание: History of Orindia (First Edition), A New Clue, The Curse of Black Bridge, Realm & Rune, Drafting Strategy Vol. 4 и 5 (список); History of Orindia (First Edition): нецензурированное издание, о котором писал Маргл
+- [ ] [Chapel](rooms/chapel/open-questions.md): Зачем зажигать свечи на алтаре
+- [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
+- [ ] [Cloister](rooms/cloister/open-questions.md): Как попасть в зону посередине (внутренний двор с травой и статуей)
+- [ ] [Darkroom](rooms/darkroom/open-questions.md): Два снимка горничных с разной фокусировкой: что видно на фоне
+- [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): Рассмотреть бумажную модель сейфа через лупу
+- [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
+- [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
+- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Разбиваемая стена (похоже на такую же, как в Weight Room и The Precipice): чем разбить и что за ней
+- [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Открыть дневник Клары (запертая книга) ключом из её гроба в Tomb и записать содержание; Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb
+- [ ] [Laundry Room](rooms/laundry-room/open-questions.md): Стиральные машины питаются от Boiler Room. Что они делают, если запитать
+- [ ] [Mail Room](rooms/mail-room/open-questions.md): Получить как можно больше писем Рэндольфа
+- [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
+- [ ] [Pump Room](rooms/pump-room/open-questions.md): Резервный бак питается от Boiler Room — что это даёт
+- [ ] [Room 46](rooms/room-46/open-questions.md): Забрать ключ 1 здесь; Найти ключи 5-8 к дверям Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
+- [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Чем разбить стену и что за ней (фото); возможно, нужна кувалда
+- [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
+- [ ] [The Grounds](rooms/the-grounds/open-questions.md): Тоннель: чем и как зажигаются факелы; куда ведёт тоннель; Заколоченная дверь: чем разбить (см. также разбиваемые стены в Weight Room) и что за ней
+- [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
+- [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
+- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Шахматная доска 9×5: расставить фигуры по клеткам комнат с этими фигурами в текущем доме. Что даёт; Треснувшая стена: чем разбить, что за ней
+- [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
+- [ ] [Tomb](rooms/tomb/open-questions.md): Ключ из гроба Клары: открыть им дневник Клары в Her Ladyship's Chamber и записать содержание; Перевести письмо Uldjora
+- [ ] [Trading Post](rooms/trading-post/open-questions.md): Динамит можно поджечь
+- [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа
+- [ ] [Weight Room](rooms/weight-room/open-questions.md): Стену можно разбить: чем и что за ней? Такая же стена в The Precipice; Рычаг Antechamber в Weight Room: письмо от 24 янв 1987 о нём обрывается (почта Security 1987); где этот рычаг
+- [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
+- [ ] [Workshop](rooms/workshop/open-questions.md): Записка «Workshop idea»: Lock Pick Kit + Metal Detector — что получится при комбинировании
 
 ## Игровой прогресс
 Новое прохождение начато 21.10.2026.

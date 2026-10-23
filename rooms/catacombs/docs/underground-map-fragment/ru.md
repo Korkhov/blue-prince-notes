@@ -9,7 +9,7 @@
 ## Заметка
 - Остальные части карты оторваны (за краем снимка виден скелет статуи смерти).
 - Резервуар и «старые туннели» упоминаются в [письме про шахту](../../../gemstone-cavern/docs/new-mine-equipment-letter/ru.md) (вагонетка со стороны резервуара).
-- Остальные части: [фрагмент 2](../../abandoned-mine/docs/underground-map-fragment-2/ru.md) и [полная карта](../../abandoned-mine/reservoir/docs/underground-map/ru.md).
+- Остальные части: [фрагмент 2](../../../abandoned-mine/docs/underground-map-fragment-2/ru.md) и [полная карта](../../../abandoned-mine/reservoir/docs/underground-map/ru.md).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)

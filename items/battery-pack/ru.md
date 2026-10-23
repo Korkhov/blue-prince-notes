@@ -4,7 +4,7 @@
 «Большой **батарейный блок**. Даёт «сок» (питание) устройствам, сделанным в мастерской.»
 
 ## Заметка
-- Связан с [Workshop](../../rooms/workshop/open-questions.md): на экране у карточки Workshop надпись «Combine inventory to create new items» (там из предметов собирают новые).
+- Связан с [Workshop](../../rooms/workshop/solutions.md): на экране у карточки Workshop надпись «Combine inventory to create new items» (там из предметов собирают новые).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)

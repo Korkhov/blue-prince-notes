@@ -1,9 +1,2 @@
 # Mail Room: открытые вопросы
-- [ ] Денни Ревейн украл почту барона? Связан ли с вымогателями X? ([записка](docs/denny-revane-return-note/ru.md))
-- [x] Что внутри письма от папы? → [письмо](docs/dad-letter-to-simon/ru.md) (личное, про похороны Герберта и поездку). Внутри конверта было не только письмо.
-- [ ] Рэндольф обещал присылать ещё письма с советами ([письмо](docs/randolph-moore-letter/ru.md)): следить за почтой. Уже пришли: [пароль](docs/randolph-letter-2-password/ru.md), [линии электропередачи](docs/randolph-letter-3-power-lines/ru.md).
-- [x] Подробная инструкция к щитку найдена в почте Office: последовательность **выкл · синий · зелёный · белый · красный · фиолетовый** ([решение](../office/solutions.md)). ([инструкция](docs/utility-room-fusebox-manual/ru.md))
-- [x] Пароль сети **SWANSONG** ([письмо](docs/randolph-letter-2-password/ru.md)) ✅ проверен в игре: подходит к терминалам (раньше найден через лупу на [объявлении в Security](../security/docs/staff-notice-terminals/ru.md), [решение](../security/solutions.md)).
-- [ ] Новые письма Рэндольфа (порядок получения не записан): [схема паропроводов](docs/randolph-steam-duct-diagram/ru.md), [«не слишком ли я пишу» + 46-я комната](docs/randolph-too-much-help-46th-room/ru.md), [планы из Drafting Studio и телескоп](docs/randolph-observatory-floorplan/ru.md), [двери с карточками](docs/randolph-keycard-doors/ru.md), [карта газового питания](docs/randolph-gas-power-map/ru.md), [инструкция V.A.C.](docs/randolph-vac-instructions/ru.md), [где выпуски Drafting Strategy](docs/randolph-drafting-strategy-locations/ru.md)
-- [ ] Проверить список Кимберли (Drafting Strategy I Dormitory, II Drafting Studio, III Library, IV и V Bookshop) — «со слов», не проверено
-- [ ] Двери с карточками: как открыть через Utility Closet + настройки Security ([письмо](docs/randolph-keycard-doors/ru.md))
+- [ ] Получить как можно больше писем Рэндольфа

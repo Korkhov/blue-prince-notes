@@ -14,7 +14,7 @@ Mail Room.
 Список с её слов, поручиться за точность я не могу. — Рэндольф»
 
 ## Заметка
-- Книги, которые уже есть в репозитории: [Vol. I](../../../library/books/drafting-strategy-vol-1/ru.md), [Vol. III](../../../library/books/drafting-strategy-vol-3/ru.md), [Vol. V](../../../library/books/drafting-strategy-vol-5/ru.md). Где именно нашли их мы, указано в их заметках; с этим списком не сверял (список «со слов Кимберли», не проверено).
+- Книги, которые уже есть в репозитории: [Vol. I](../../../library/books/drafting-strategy-vol-1/ru.md), [Vol. III](../../../library/books/drafting-strategy-vol-3/ru.md), [Vol. V](../../../library/books/drafting-strategy-vol-5/ru.md).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)

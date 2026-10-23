@@ -2,7 +2,7 @@
 
 Проход открыт механической головоломкой в [Reservoir](../abandoned-mine/reservoir/solutions.md).
 
-- **Красная дверь** с **блоком включения** (красный ящик на стене, как в [Pump Room](../pump-room/open-questions.md)) — [фото](photos/red-door.jpg).
+- **Красная дверь** с **блоком включения** (красный ящик на стене, как в [Pump Room](../pump-room/solutions.md)) — [фото](photos/red-door.jpg).
 - Отсюда можно пройти в **Inner Sanctum**.
 
 - [Inner Sanctum](inner-sanctum.md): рычаг к Antechamber (комната 46), знак луны, 8 закрытых комнат.

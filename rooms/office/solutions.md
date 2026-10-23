@@ -1,6 +1,6 @@
 # Office: решения
 
-## Сейф ✅ (проверено в игре)
+## Сейф ✅
 - Сейф (под бюстом) появляется после нажатия **рычага в столе**.
 - **Код: 0303.** Логика: в записке для Бриджит единственное название чёрным (правдивое) — **MARCH of the COUNT**: март = 03, «count» = посчитать графов (counts) в комнате = 3.
 - Внутри **красный конверт ∞**: прощальное письмо вымогателя X. ([письмо](docs/x-parting-letter-red-infinity/ru.md))
@@ -19,3 +19,5 @@
 2. Нажать синий рядом с красным → фиолетовый.
 3. Пять фиолетовых → включается шестой.
 4. Белый появляется **только** когда все 6 фиолетовые.
+- Военный и девушка с родинкой в двойной рамке — **Саймон Х. Синклер и Клара Эпсен** ([портрет](docs/double-portrait-soldier-woman/ru.md)).
+- Рычаги Antechamber: западный — [Secret Garden](../secret-garden/solutions.md), восточный — [Great Hall](../great-hall/solutions.md), также [Greenhouse](../greenhouse/solutions.md) и [Inner Sanctum](../the-underpass/inner-sanctum.md); см. [Antechamber](../antechamber/solutions.md) ([записка](docs/antechamber-lever-note/ru.md)).

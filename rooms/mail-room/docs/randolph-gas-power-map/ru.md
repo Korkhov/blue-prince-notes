@@ -6,7 +6,7 @@ Mail Room.
 **Схема:** крест с синим пламенем на каждом конце: **сверху Apple Orchard, слева Hovel, справа Schoolhouse, снизу Gemstone Cavern**.
 
 ## Заметка
-- Четыре места совпадают с вентилями газа в [четырёх огнях](../../../../puzzles/gas-flames.md) (там Gemstone Cavern, Apple Orchard, Hovel, Schoolhouse). Положение на схеме (крест) возможно соответствует расположению огней; не проверено.
+- Четыре места совпадают с вентилями газа в [четырёх огнях](../../../../puzzles/gas-flames.md) (там Gemstone Cavern, Apple Orchard, Hovel, Schoolhouse). Положение на схеме (крест) возможно соответствует расположению огней.
 
 ## Photos / Фото
 ![01.jpg](01.jpg)

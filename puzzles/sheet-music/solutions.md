@@ -10,5 +10,5 @@ Find · Among · The · White · *Trees* · Under · Two · Stones
 
 Лист №5 найден в Greenhouse, слова *Trees* и *sheets* подтверждены [фото](05/ru.md).
 
-## Результат ✅ (проверено в игре)
+## Результат ✅
 Место найдено в [Campsite](../../rooms/the-grounds/campsite/solutions.md) (белые деревья — берёзы вокруг лагеря): там оказался **секретный план комнаты Conservatory** (secret floorplan). Задача решена.

@@ -12,4 +12,4 @@
 - Ср. письмо о новой шахте в [Gemstone Cavern](../../../rooms/gemstone-cavern/docs/new-mine-equipment-letter/ru.md) (бригадир, старые туннели).
 
 ## Photos / Фото
-![1.jpg](1.jpg)
+![1.jpg](01.jpg)

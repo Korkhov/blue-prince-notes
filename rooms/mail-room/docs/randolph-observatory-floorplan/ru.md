@@ -10,7 +10,7 @@ Mail Room. Два листа.
 Если у изъятия планов была причина, возможно, это первый шаг к тому, чтобы выяснить, какая. — Рэндольф»
 
 ## Заметка
-- **Открытое:** план в телескопе Observatory ещё не найден (по письму; не проверено в игре). См. [открытые вопросы Observatory](../../../observatory/open-questions.md).
+- Секретный план этажа **Planetarium** найден в отсеке для линз телескопа в [Observatory](../../../observatory/solutions.md). См. [секретные планы](../../../../puzzles/secret-floorplans.md).
 - Ср. секретные планы этажей: [puzzles/secret-floorplans.md](../../../../puzzles/secret-floorplans.md), [Drafting Studio](../../../drafting-studio/solutions.md).
 
 ## Photos / Фото

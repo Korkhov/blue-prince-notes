@@ -5,8 +5,8 @@
 
 ## Заметка
 - Где найден: не указано.
-- Со слов пользователя: он нужен для **рычага Antechamber в [Greenhouse](../../rooms/greenhouse/open-questions.md)** (тот не работает без него).
-- Догадка (не проверена): может подходить к рычагам, которые в особняке «отсутствуют», например западный/восточный рычаги Antechamber, см. [Office](../../rooms/office/open-questions.md).
+- Он нужен для **рычага Antechamber в [Greenhouse](../../rooms/greenhouse/solutions.md)** (тот не работает без него).
+- Догадка: может подходить к рычагам, которые в особняке «отсутствуют», например западный/восточный рычаги Antechamber, см. [Office](../../rooms/office/solutions.md).
 - На фоне экрана чертежа в «Permanent Additions» значатся West Gate Path, Gemstone Cavern и Apple Orchard.
 
 ## Photos / Фото

@@ -18,3 +18,5 @@
 ## Документы и фигуры
 - [Reddington Herald: «A New Clue» раскуплена за часы](docs/reddington-herald-a-new-clue/ru.md).
 - Шахматная фигура: слон, тёмный, на шкафу у двери ([фото](../../puzzles/chess/bookshop-bishop.jpg), [таблица](../../puzzles/chess/README.md)).
+- Drafting Strategy Vol. 5 найдена в Library и записана ([том V](../library/books/drafting-strategy-vol-5/ru.md)).
+- Realm & Rune найдена в Library, [целая копия](../library/books/realm-and-rune/ru.md) (та же книга, что порванная [в The Precipice](../the-precipice/docs/realm-sigils-book/ru.md)).

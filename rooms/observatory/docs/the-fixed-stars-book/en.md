@@ -25,11 +25,11 @@ This book, a solid base for astronomy, will help you easily identify these const
 *(Pages 6, 9, 10, 13, 14, 16–19 have no constellation / were skipped.)*
 
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
-![5.jpg](5.jpg)
-![6.jpg](6.jpg)
-![7.jpg](7.jpg)
-![8.jpg](8.jpg)
+![1.jpg](01.jpg)
+![2.jpg](02.jpg)
+![3.jpg](03.jpg)
+![4.jpg](04.jpg)
+![5.jpg](05.jpg)
+![6.jpg](06.jpg)
+![7.jpg](07.jpg)
+![8.jpg](08.jpg)

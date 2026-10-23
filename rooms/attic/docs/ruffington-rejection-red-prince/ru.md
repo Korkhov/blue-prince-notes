@@ -10,7 +10,7 @@ Ruffington Red Publishing, Children's Book Department, 205 Concetta Ct., 02117-2
 
 ## Заметка
 - Marigold = псевдоним **Мэри Мэттью Джонс** (матери Саймона), см. [сюжет](../../../../story/timeline.md); «Red Prince» её дебютная детская книга ([в Nursery](../../../nursery/docs/the-red-prince-book/ru.md), [посвящение](../../../master-bedroom/docs/red-prince-dedication/ru.md)).
-- Что именно в концовке «слишком политично», в письме не сказано; сверить с книгой в Nursery пока не делал (не проверено).
+- Что именно в концовке «слишком политично», в письме не сказано; сверить с книгой в Nursery пока не делал.
 - Год письма неизвестен (виден только штамп «April 12»).
 
 ## Photos / Фото

@@ -14,7 +14,7 @@
 8. Rotating Gear — вращающаяся шестерня
 9. To North Lever — к северному рычагу
 
-Под строкой 9 мелким шрифтом (через [лупу](../../../../items/magnifying-glass/ru.md)): **«Buried floorplan»** (по словам пользователя; на снимке различима плохо).
+Под строкой 9 мелким шрифтом (через [лупу](../../../../items/magnifying-glass/ru.md)): **«Buried floorplan»** (на снимке различима плохо).
 
 ## Заметка
 - Полная карта: [Underground Map](../../reservoir/docs/underground-map/ru.md); ещё один обрывок: [в Catacombs](../../../catacombs/docs/underground-map-fragment/ru.md).

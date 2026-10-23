@@ -46,12 +46,12 @@ Whether you are bargain hunting, looking for adventure, or finding a memento to 
 Labels: Trinsdale Lake · Angel Tower · Aries River · Hundred Bells · Barren's End *(?)* · Mt. Perma · Featherfall Keep · Reddington · Mainway Station Bazaar · Botanical Gardens · Mt. Holly · *(small label at the bottom, illegible — "Tanner Fork"?)*
 
 ## Photos / Фото
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
-![5.jpg](5.jpg)
-![6.jpg](6.jpg)
-![7.jpg](7.jpg)
-![8.jpg](8.jpg)
-![9.jpg](9.jpg)
+![1.jpg](01.jpg)
+![2.jpg](02.jpg)
+![3.jpg](03.jpg)
+![4.jpg](04.jpg)
+![5.jpg](05.jpg)
+![6.jpg](06.jpg)
+![7.jpg](07.jpg)
+![8.jpg](08.jpg)
+![9.jpg](09.jpg)

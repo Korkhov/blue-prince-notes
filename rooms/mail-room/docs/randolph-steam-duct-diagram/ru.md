@@ -6,7 +6,7 @@ Mail Room.
 **Схема:** Boiler Room в центре, от неё линии к **Lab**, **Pump Room**, **Garage** и **Laundry Room**.
 
 ## Заметка
-- Это та же идея, что в [питании от Boiler Room](../../../../puzzles/boiler-power.md) (Lab, Laundry Room, Pump Room) и в [письме про линии электропередачи](../randolph-letter-3-power-lines/ru.md); Garage на схеме есть, а в той таблице нет (сверить, не проверено).
+- Это та же идея, что в [питании от Boiler Room](../../../../puzzles/boiler-power.md) (Lab, Laundry Room, Pump Room) и в [письме про линии электропередачи](../randolph-letter-3-power-lines/ru.md); Garage на схеме есть, а в той таблице нет (сверить).
 - Важно: цепочка комнат с каналами должна быть **непрерывной**.
 
 ## Photos / Фото

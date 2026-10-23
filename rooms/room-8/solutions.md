@@ -10,6 +10,7 @@
 | Слон | WRATH |
 | Медведь | SLOTH |
 | Обезьяна | HUBRIS |
-| Собака | MUNDANITY (со слов пользователя) |
+| Собака | MUNDANITY |
 
-Награда: **2 Allowance Token** и **Trophy 8** (со слов пользователя).
+Награда: **2 Allowance Token** и **Trophy 8**.
+- Собака ставится в корзину **MUNDANITY** ([таблички](docs/animal-plaques/ru.md)).
