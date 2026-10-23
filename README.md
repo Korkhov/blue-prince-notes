@@ -50,6 +50,7 @@
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): учёт покупок, Blue Tents после 8 трофеев
 - [ ] [Basement](rooms/basement/open-questions.md): тележки, разбивающаяся стена, статуи
 - [ ] [Room 8](rooms/room-8/open-questions.md): уточнить корзину собаки
+- [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): рассмотреть сейф через лупу
 - [ ] [Chapel](rooms/chapel/open-questions.md): свечи, витражи, статуи
 - [ ] [Classroom](rooms/classroom/open-questions.md): цвета флагов королевств по раскраскам
 - [ ] [Commissary](rooms/commissary/open-questions.md): закрыт с 12 по 16 день, стикер «WIT…»
