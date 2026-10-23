@@ -18,7 +18,6 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Шахматные фигуры](puzzles/chess/README.md): зачем они и где остальные
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
 - [ ] [Library](rooms/library/books/the-history-of-orindia/letter-margle/ru.md): где нецензурированный первый экземпляр «History of Orindia» / «настоящая рукопись» (письмо Маргла)
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
@@ -45,7 +44,7 @@
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Тоннель: чем и как зажигаются факелы; куда ведёт тоннель; Заколоченная дверь: чем разбить (см. также разбиваемые стены в Weight Room) и что за ней
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
-- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Шахматная доска 9×5: расставить фигуры по клеткам комнат с этими фигурами в текущем доме. Что даёт; Треснувшая стена: чем разбить, что за ней
+- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Треснувшая стена: чем разбить, что за ней
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
 - [ ] [Tomb](rooms/tomb/open-questions.md): Ключ из гроба Клары: открыть им дневник Клары в Her Ladyship's Chamber и записать содержание; Перевести письмо Uldjora
 - [ ] [Trading Post](rooms/trading-post/open-questions.md): Динамит можно поджечь
