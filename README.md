@@ -31,6 +31,7 @@
 - [ ] [Cloister](rooms/cloister/open-questions.md): Как попасть в зону посередине (внутренний двор с травой и статуей)
 - [ ] [Darkroom](rooms/darkroom/open-questions.md): Два снимка горничных с разной фокусировкой: что видно на фоне
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): Рассмотреть бумажную модель сейфа через лупу
+- [ ] [Dovecote](rooms/dovecote/open-questions.md): Что такое SD из записки «возвращаемся на восток»
 - [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
 - [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Что за разбиваемой стеной
