@@ -1,5 +1,5 @@
 # Antechamber Entry Controls: схема рычагов
-Antechamber. Схема: в центре Antechamber, вокруг четыре рычага, соединённые пунктиром с четырьмя сторонами.
+Найдена в [Basement](../../solutions.md). Схема: в центре [Antechamber](../../../antechamber/solutions.md), вокруг четыре рычага, соединённые пунктиром с четырьмя сторонами.
 
 - **North lever**: underground (под ним ещё строка мелкого нечитаемого текста)
 - **East lever**: great hall
