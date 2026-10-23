@@ -16,7 +16,7 @@ Room 46. Лист с рисунком: восемь дверей по четыр
 | 1 | Room 46 (здесь) | найден, **не забран** |
 | 2 | в сейфе | найден, **не забран** |
 | 3 | в Clock Tower: [загадка с часами](../../../clock-tower/docs/clock-puzzle-notes/ru.md), **Sanctum Key** | **забран** |
-| 4 | в Safehouse | **забран** |
+| 4 | в [Safehouse](../../../abandoned-mine/safehouse/solutions.md), **Sanctum Key** | **забран** |
 | 5-8 | неизвестно | не найдены |
 
 ## Заметка
