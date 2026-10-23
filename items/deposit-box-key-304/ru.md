@@ -3,5 +3,8 @@
 
 «**Ключ от банковской ячейки.** Открывает ячейку **304**.»
 
+## Заметка
+- Открывает ячейку 304 в [Vault](../../rooms/vault/solutions.md): внутри паспорт ([документ](../../rooms/vault/docs/passport-jean-ribbon/ru.md)).
+
 ## Photos / Фото
 ![01.jpg](01.jpg)
