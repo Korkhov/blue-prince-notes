@@ -5,3 +5,4 @@
   - [Magnifying Glass](../../items/magnifying-glass/ru.md) + [Metal Detector](../../items/metal-detector/ru.md) = [Burning Glass](../../items/burning-glass/ru.md);
   - [Compass](../../items/compass/ru.md) + [Shovel](../../items/shovel/ru.md): инструкция из [записки](docs/workshop-idea-compass-shovel/ru.md), результат на ней не указан;
   - [Lock Pick Kit](../../items/lock-pick-kit/ru.md) + [Metal Detector](../../items/metal-detector/ru.md): инструкция из [записки](docs/workshop-idea-lock-pick-metal-detector/ru.md), результат не указан.
+  - [Sledge Hammer](../../items/sledge-hammer/ru.md) + [Battery Pack](../../items/battery-pack/ru.md) + [Broken Lever](../../items/broken-lever/ru.md) = **Power Hammer** ([рецепт](docs/recipe-power-hammer/ru.md)): разбивает стены.

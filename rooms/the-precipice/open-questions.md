@@ -1,2 +1,2 @@
 # The Precipice: открытые вопросы
-- [ ] Треснувшая стена: чем разбить, что за ней? ([фото](docs/cracked-wall/ru.md))
+- [ ] Что за треснувшей стеной (разбить [Power Hammer](../workshop/docs/recipe-power-hammer/ru.md)) ([фото](docs/cracked-wall/ru.md))

@@ -21,7 +21,7 @@
 - [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
 - [ ] [Library](rooms/library/books/the-history-of-orindia/letter-margle/ru.md): где нецензурированный первый экземпляр «History of Orindia» / «настоящая рукопись» (письмо Маргла)
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
-- [ ] [Basement](rooms/basement/open-questions.md): Разбивающаяся стена: чем разбить и что за ней; Зачем статуи, связь со статуями Chapel
+- [ ] [Basement](rooms/basement/open-questions.md): Что за разбивающейся стеной; Зачем статуи, связь со статуями Chapel
 - [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): Где найти два недостающих микрочипа и что даёт подключение всех трёх
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
 - [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги и записать содержание: History of Orindia (First Edition), A New Clue, The Curse of Black Bridge, Realm & Rune, Drafting Strategy Vol. 4 и 5 (список); History of Orindia (First Edition): нецензурированное издание, о котором писал Маргл
@@ -32,24 +32,24 @@
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): Рассмотреть бумажную модель сейфа через лупу
 - [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
-- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Разбиваемая стена (похоже на такую же, как в Weight Room и The Precipice): чем разбить и что за ней
+- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Что за разбиваемой стеной
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb; Рисунок на последней странице дневника: река и тропинка к квадратному строению, зачем он здесь
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md): Стиральные машины питаются от Boiler Room. Что они делают, если запитать
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Получить как можно больше писем Рэндольфа
 - [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): Резервный бак питается от Boiler Room — что это даёт
 - [ ] [Room 46](rooms/room-46/open-questions.md): Забрать ключ 1 здесь; Найти ключи 5-8 к дверям Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
-- [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Чем разбить стену и что за ней (фото); возможно, нужна кувалда
+- [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Что за разбиваемой стеной
 - [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Тоннель: чем и как зажигаются факелы; куда ведёт тоннель; Заколоченная дверь: чем разбить (см. также разбиваемые стены в Weight Room) и что за ней
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
-- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Треснувшая стена: чем разбить, что за ней
+- [ ] [The Precipice](rooms/the-precipice/open-questions.md): Что за треснувшей стеной
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
 - [ ] [Trading Post](rooms/trading-post/open-questions.md): Динамит можно поджечь
 - [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа
-- [ ] [Weight Room](rooms/weight-room/open-questions.md): Стену можно разбить: чем и что за ней? Такая же стена в The Precipice; Рычаг Antechamber в Weight Room: письмо от 24 янв 1987 о нём обрывается (почта Security 1987); где этот рычаг
+- [ ] [Weight Room](rooms/weight-room/open-questions.md): Что за разбиваемой стеной; Рычаг Antechamber в Weight Room: где этот рычаг
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
 
 ## Игровой прогресс
