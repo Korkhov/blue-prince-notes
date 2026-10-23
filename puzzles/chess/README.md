@@ -18,6 +18,7 @@
 | Конь | белый | Security (на картотечном шкафу) | [фото](security-knight.jpg) |
 | Конь | белый | Observatory (на полу у столика) | [фото](observatory-knight.jpg) |
 | Ладья | светлая (оливковый оттенок от освещения) | Conservatory (на полке-витрине у окна) | [фото](conservatory-rook.jpg) |
+| Ладья | светлая (серая) | Clock Tower (на деревянном ящике рядом с бочкой) | [фото](clock-tower-rook.jpg) |
 | Ферзь | тёмный | Study (на шахматной доске, клетка **D8**) | [фото](study-queen-d8.jpg) |
 | Слон | тёмный | Bookshop (на шкафу у двери) | [фото](bookshop-bishop.jpg) |
 | Ферзь | белый (по форме короны, не крест) | Her Ladyship's Chamber | [фото](her-ladyships-chamber-queen.jpg) |
