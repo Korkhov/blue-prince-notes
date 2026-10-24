@@ -22,6 +22,19 @@
 | Ферзь | тёмный | Study (на шахматной доске, клетка **D8**) | [фото](study-queen-d8.jpg) |
 | Слон | тёмный | Bookshop (на шкафу у двери) | [фото](bookshop-bishop.jpg) |
 | Ферзь | белый (по форме короны, не крест) | Her Ladyship's Chamber | [фото](her-ladyships-chamber-queen.jpg) |
+| Пешка | белая | Drawing Room | — |
+| Пешка | белая | Guest Bedroom | — |
+| Пешка | белая | Freezer | — |
+| Пешка | **чёрная** | Drafting Studio | — |
+| Пешка | **чёрная** | Secret Passage | — |
+| Пешка | **чёрная** | Solarium | — |
+| Пешка | **чёрная** | Dormitory | — |
+| Пешка | **чёрная** | Lost & Found | — |
+| Конь | **чёрный** | Armory | — |
+| Конь | **чёрный** | Treasure Trove | — |
+| Слон | белый | Attic | — |
+| Ладья | белая | Vault | — |
+| Король | **чёрный** | Throne Room | — |
 
 ## Доска в The Precipice
 Загадка решена. Награда: [силы фигур](../../rooms/the-precipice/docs/chess-powers/ru.md) (одна за раз; чтобы поменять, решить заново).
