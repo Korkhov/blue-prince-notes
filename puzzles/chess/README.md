@@ -4,24 +4,24 @@
 | Фигура | Цвет | Комната | Фото |
 |---|---|---|---|
 | Пешка | белая | Storeroom (стоит на бочке) | [фото](storeroom-pawn.jpg) |
-| Пешка | белая | Parlor (в угловом шкафу-витрине) | [фото](parlor-pawn.jpg) |
+| Пешка | **чёрная** | Parlor (в угловом шкафу-витрине) | [фото](parlor-pawn.jpg) |
 | Слон | белый | Chapel (на боковом алтаре, рядом с чашей) | [фото](chapel-bishop.jpg) |
-| Пешка | светлая (кремовая) | Nursery (на полке с игрушками) | [фото](nursery-pawn.jpg) |
-| Пешка | светлая (кремовая) | Den (на стопке книг на столике) | [фото](den-pawn.jpg) |
+| Пешка | белая | Nursery (на полке с игрушками) | [фото](nursery-pawn.jpg) |
+| Пешка | белая | Den (на стопке книг на столике) | [фото](den-pawn.jpg) |
 | Ладья | белая | Nook (на книжной полке) | [фото](nook-rook.jpg) |
-| Пешка | светлая (кремовая) | Bedroom (в шкафу-витрине) | [фото](bedroom-pawn.jpg) |
+| Пешка | белая | Bedroom (в шкафу-витрине) | [фото](bedroom-pawn.jpg) |
 | Пешка | белая | Dining Room (в посудном шкафу) | [фото](dining-room-pawn.jpg) |
 | Пешка | **чёрная** | Walk-in Closet (на полке) | [фото](walk-in-closet-pawn-black.jpg) |
 | Король | белый | Office (на книжной полке, рядом бюст) | [фото](office-king.jpg) |
-| Пешка ×2 | тёмные (чёрные?) | Bunk Room (на полке, рядом видеокассета) | [фото](bunk-room-pawns-dark.jpg) |
+| Пешка ×2 | **чёрные** | Bunk Room (на полке, рядом видеокассета) | [фото](bunk-room-pawns-dark.jpg) |
 | Слон | **чёрный** | Rumpus Room (на клетчатом полу) | [фото](rumpus-room-bishop-black.jpg) |
 | Конь | белый | Security (на картотечном шкафу) | [фото](security-knight.jpg) |
 | Конь | белый | Observatory (на полу у столика) | [фото](observatory-knight.jpg) |
-| Ладья | светлая (оливковый оттенок от освещения) | Conservatory (на полке-витрине у окна) | [фото](conservatory-rook.jpg) |
-| Ладья | светлая (серая) | Clock Tower (на деревянном ящике рядом с бочкой) | [фото](clock-tower-rook.jpg) |
-| Ферзь | тёмный | Study (на шахматной доске, клетка **D8**) | [фото](study-queen-d8.jpg) |
-| Слон | тёмный | Bookshop (на шкафу у двери) | [фото](bookshop-bishop.jpg) |
-| Ферзь | белый (по форме короны, не крест) | Her Ladyship's Chamber | [фото](her-ladyships-chamber-queen.jpg) |
+| Ладья | **чёрная** | Conservatory (на полке-витрине у окна) | [фото](conservatory-rook.jpg) |
+| Ладья | **чёрная** | Clock Tower (на деревянном ящике рядом с бочкой) | [фото](clock-tower-rook.jpg) |
+| Ферзь | **чёрный** | Study (на шахматной доске, клетка **D8**) | [фото](study-queen-d8.jpg) |
+| Слон | **чёрный** | Bookshop (на шкафу у двери) | [фото](bookshop-bishop.jpg) |
+| Ферзь | белый | Her Ladyship's Chamber | [фото](her-ladyships-chamber-queen.jpg) |
 | Пешка | белая | Drawing Room | — |
 | Пешка | белая | Guest Bedroom | — |
 | Пешка | белая | Freezer | — |
