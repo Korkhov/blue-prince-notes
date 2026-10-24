@@ -15,3 +15,4 @@
 - [Планы этажей и телескоп](docs/randolph-observatory-floorplan/ru.md): секретный план этажа лежит в Observatory, в отсеке для линз телескопа (это Planetarium).
 - [«Не слишком ли я пишу?»](docs/randolph-too-much-help-46th-room/ru.md): предстоит найти сорок шестую комнату ([Room 46](../room-46/solutions.md)).
 - Записка [Денни Ревейна](docs/denny-revane-return-note/ru.md).
+- [Упаковочный лист Synka](docs/synka-packing-slip/ru.md): маска для сна и 2 гема.

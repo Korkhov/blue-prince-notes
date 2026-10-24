@@ -15,6 +15,7 @@
 - `rooms/library/books/<книга>/` — книги библиотеки
 - `documents/<документ>/` — записки, у которых комната неизвестна
 - `puzzles/` — загадки на несколько комнат
+- `tutorials/` — обучающие карточки игры
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
@@ -29,6 +30,7 @@
 - [ ] [Chapel](rooms/chapel/open-questions.md): Зачем зажигать свечи на алтаре
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
 - [ ] [Cloister](rooms/cloister/open-questions.md): Как попасть в зону посередине (внутренний двор с травой и статуей)
+- [ ] [Closed Exhibit](rooms/closed-exhibit/open-questions.md): Можно ли забрать бумажную корону
 - [ ] [Darkroom](rooms/darkroom/open-questions.md): Два снимка горничных с разной фокусировкой: что видно на фоне
 - [ ] [Drafting Studio](rooms/drafting-studio/open-questions.md): Рассмотреть бумажную модель сейфа через лупу
 - [ ] [Dovecote](rooms/dovecote/open-questions.md): Что такое SD из записки «возвращаемся на восток»
