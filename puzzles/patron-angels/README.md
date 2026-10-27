@@ -6,8 +6,8 @@
 | I | садовник (мотыга) | **Рынна** (Rynna), покровительница садоводства | [журнал садовника](../../rooms/apple-orchard/docs/gardeners-logbook/ru.md) в Apple Orchard |
 | II | повар (лопата для хлеба) | | |
 | III | работник/фермер (грабли/вилы) | | |
-| IV | трубочист (щётка для дымохода) | | |
-| V | горничная (метла) | **Мила** (MILA), предположительно | [статуэтка](../../rooms/maids-chamber/docs/mila-statuette/ru.md) в Maid's Chamber |
+| IV | трубочист (щётка для дымохода) | **Вея** (Veia) | подпись «VEIA» к статуе ангела в [Drafting Strategy, т. V](../../rooms/library/books/drafting-strategy-vol-5/ru.md) (страница про Tomb) |
+| V | горничная (метла) | **Мила** (MILA) | [статуэтка](../../rooms/maids-chamber/docs/mila-statuette/ru.md) в Maid's Chamber |
 | VI | наездник/охотник (хлыст) | | |
 | VII | коронованная фигура (скипетр и книга) | | |
 

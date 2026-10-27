@@ -15,7 +15,7 @@
 - **Рэндольф М.**, **Кимберли Томпсон** (из SYNKA labs), **Мур** (Moore): лаборанты/инженеры; испытания новой турбины. ([записка](../rooms/laboratory/docs/kimberly-thompson-note/ru.md))
 - **Роберт Ногула**: смотритель территории с 10.04.1992, ведёт журнал садовника. **Энн** — его собеседница, это Энн Бэббидж. ([журнал](../rooms/apple-orchard/docs/gardeners-logbook/ru.md))
 - **Ангелы**: витражи Chapel — ангелы-покровители; **Рынна** — садоводства, **Мила** — горничных (?). Статуя **Ориндa** в Cloister.
-- **Мила**: горничная (статуэтка «MILA» в Maid's Chamber; возможно, витраж V в Chapel).
+- **Мила**: горничная (статуэтка «MILA» в Maid's Chamber): ангел-покровитель горничных, витраж V в Chapel. Остальные известные ангелы-покровители: Rynna (садовник), Veia (трубочист); см. [таблицу](../puzzles/patron-angels/README.md).
 - **Шеф ДеКамп (Chef DeCamp)**: повар поместья в 1987; пишет Рэндольфу про морозильник ([письма](../rooms/laboratory/docs/terminal-emails-1987/ru.md)).
 - **Хартли**: камердинер (valet) Герберта; «memos в комнате Хартли всегда ложны». ([почта](../rooms/office/docs/terminal-emails-1993/ru.md))
   Письмо Герберта Хартли о свободе и Lake House: [Servant's Quarters](../rooms/servants-quarters/docs/herbert-letter-to-hartley/ru.md).
