@@ -36,7 +36,6 @@
 - [ ] [Dovecote](rooms/dovecote/open-questions.md): Что такое SD из записки «возвращаемся на восток»
 - [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
-- [ ] [Greenhouse](rooms/greenhouse/open-questions.md): Что за разбиваемой стеной
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb; Рисунок на последней странице дневника: река и тропинка к квадратному строению, зачем он здесь
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md): Стиральные машины питаются от Boiler Room. Что они делают, если запитать
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Получить как можно больше писем Рэндольфа
