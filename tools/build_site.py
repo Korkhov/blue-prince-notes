@@ -61,6 +61,7 @@ for dirpath, dirs, files in os.walk(OUT):
 # 2) страницы комнат (комнаты могут быть вложенными: rooms/the-grounds/campsite/)
 rooms = []        # только верхний уровень: (key, name, open_count)
 room_names = {}   # key (путь после rooms/) -> название
+room_children = {}  # key -> список вложенных комнат (key, name, count)
 NOT_ROOM = {'docs', 'books', 'photos'}
 def build_room(key):
     p = os.path.join(OUT, 'rooms', key)
@@ -90,6 +91,7 @@ def build_room(key):
             out.append('\n## 📷 Фото места\n' + '\n'.join(f'![{i}](photos/{i})' for i in imgs))
     write(os.path.join(p, 'README.md'), '\n'.join(out) + '\n')
     room_names[key] = name
+    room_children[key] = sub_res
     pages.append(f'/rooms/{key}/')
     return key, name, total
 rdir = os.path.join(OUT, 'rooms')
@@ -125,7 +127,13 @@ for d in (sorted(os.listdir(os.path.join(OUT, 'puzzles'))) if os.path.isdir(os.p
     if os.path.isdir(p): sb.append(f'  - [{pretty(d)}](/puzzles/{d}/)')
     elif d.endswith('.md') and d != 'README.md': sb.append(f'  - [{pretty(d[:-3])}](/puzzles/{d})')
 sb.append('- 🚪 **Комнаты**')
-sb += [f'  - [{n}{" ❓" if c else ""}](/rooms/{k}/)' for k, n, c in rooms]
+def room_lines(items, depth):
+    out = []
+    for k, n, c in items:
+        out.append('  ' * depth + f'- [{n}{" ❓" if c else ""}](/rooms/{k}/)')
+        out += room_lines(room_children.get(k, []), depth + 1)
+    return out
+sb += room_lines(rooms, 1)
 sb.append('- [🎒 Предметы](/items/)')
 sb.append('- 📄 **Документы (комната неизвестна)**')
 seen = set()

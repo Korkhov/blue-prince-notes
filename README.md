@@ -19,7 +19,7 @@
 - `story/timeline.md` — сюжет и персонажи
 
 ## Что ещё не решено
-- [ ] [Красные письма](documents/red-letters/README.md): найдено только SIX, остальные где-то в сейфах/тайниках?
+- [ ] [Красные письма](documents/red-letters/README.md): найдены №2, 4, 5, SIX, VII и прощальное письмо X; остальные, судя по нумерации (№1, 3), где-то в сейфах/тайниках
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
 - [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли на двух крестиках (Patio, Laundry Room) и у стрелочки в Archives
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
