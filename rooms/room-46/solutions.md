@@ -2,7 +2,8 @@
 Комната, куда ведёт [Antechamber](../antechamber/solutions.md) / проход из [Inner Sanctum](../the-underpass/inner-sanctum.md); достижение даёт Inheritance Trophy ([письмо](../entrance-hall/docs/baron-inheritance-letter/ru.md)).
 
 ## Что здесь
-- [Стишок о ключах к 8 дверям Inner Sanctum](docs/inner-sanctum-keys-rhyme/ru.md) (ключ 1 здесь, не забран).
+- [Стишок о ключах к 8 дверям Inner Sanctum](docs/inner-sanctum-keys-rhyme/ru.md): ключ 1 лежал здесь, забран.
+- Коробка [Mora Jai](../../puzzles/mora-jai/room-46/ru.md) (символ пятиугольника, красные углы): решена.
 - [Записка-шантаж «У нас ваши письма»](docs/ransom-note-eight-letters/ru.md).
 - [Карта «8 realms in 8 months» с булавками](docs/realm-map-pins/ru.md) (головоломка).
 - [Гербы и бюсты: Marigold, Jones, Sinclair, Epsen](docs/family-crests/ru.md).

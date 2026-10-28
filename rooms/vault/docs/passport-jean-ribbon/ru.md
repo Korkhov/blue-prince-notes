@@ -12,5 +12,8 @@
 
 Имя Jean Ribbon встречается в [руководстве насосной системы](../../../library/books/epcw-pump-system-user-manual/ru.md).
 
+## Заметка
+- Фото обложки (печать Fenn Aries) стало подсказкой к загадке [Inner Sanctum 2](../../../the-underpass/inner-sanctum-2/solutions.md).
+
 ## Photos / Фото
 ![01.jpg](01.jpg) ![02.jpg](02.jpg)
