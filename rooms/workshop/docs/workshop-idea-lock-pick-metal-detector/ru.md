@@ -2,7 +2,7 @@
 Workshop. Обрывок бумаги с рукописной надписью **«WORKSHOP IDEA»**: слева набор отмычек (**LOCK PICK**), справа **«and»** и металлоискатель (**METAL DETECTOR**), в конце знак вопроса. У обоих рисунков двойные стрелки, показывающие размеры (длина и ширина).
 
 ## Заметка
-- Инструкция: собрать в Workshop из [Lock Pick Kit](../../../../items/lock-pick-kit/ru.md) + [Metal Detector](../../../../items/metal-detector/ru.md) (результат на записке не указан).
+- Инструкция: собрать в Workshop из [Lock Pick Kit](../../../../items/lock-pick-kit/ru.md) + [Metal Detector](../../../../items/metal-detector/ru.md) (результат на записке не указан); получается [Pick Sound Amplifier](../recipe-pick-sound-amplifier/ru.md).
 - Стрелки размеров, возможно, подсказывают, как предметы соединяются; не расшифровано.
 
 ## Photos / Фото
