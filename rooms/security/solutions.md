@@ -3,7 +3,8 @@
 ## Правило цветных записок ✅
 - **Синие** = правда.
 - **Красные** = ложь, **если не написаны от руки** (рукописные красные — правда).
-- Ср. Darkroom: «…een (Green?) memos found in Hartley's room are always false».
+- **Зелёные** могут быть как правдой, так и ложью.
+- Ср. Darkroom: «…een memos found in Hartley's room are always false».
 - Примеры: машинописная красная карточка «SAFE CODE 9083» — ложь (код Office 0303). Красная табличка в Laboratory «почта только через Security» напечатана → по правилу **ложь**. Записка Бэббидж Кристофу в Garage — красная, но рукописная → правда.
 
 - [Заметка с мониторами «DELETE IT!!»](docs/monitors-delete-it-sketch/ru.md).

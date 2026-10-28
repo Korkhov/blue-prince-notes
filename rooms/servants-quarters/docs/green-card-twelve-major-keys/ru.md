@@ -2,7 +2,7 @@
 Зелёная карточка на мольберте в Servant's Quarters: «**THERE ARE TWELVE MAJOR KEYS**» («Существует двенадцать мажорных тональностей/ключей»).
 
 ## Заметка
-- Зелёные записки из комнаты Хартли **всегда ложны**: см. надпись на конверте в [Darkroom](../../../darkroom/docs/developed-prints/ru.md) («…een memos found in Hartley's room are always false»; «…een», вероятно, green). Значит, утверждение, скорее всего, ложное. Не проверено.
+- Зелёные записки могут быть как правдой, так и ложью ([правило](../../../security/solutions.md)). Ср. надпись на конверте в [Darkroom](../../../darkroom/docs/developed-prints/ru.md): «…een memos found in Hartley's room are always false».
 - Слово *key* двусмысленно (тональность / ключ). Может быть связано с нотами ([puzzles/sheet-music](../../../../puzzles/sheet-music/solutions.md)) или с ключами; догадка.
 
 ## Photos / Фото
