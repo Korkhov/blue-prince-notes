@@ -74,6 +74,8 @@ As we reach the end of this volume of "Drafting Strategy," we hope you have foun
 
 At the end of the day, color is just another tool. Some wield it to express their own creativity. Some hoist it up as a display of their own power. Some use it to calculate great sums. But all of us want to find a color we can call our own.
 
+(Through the magnifying glass, photo 10: a sketch of a throne on a dais with a sunburst and two angel statues captioned "Dauja" (left) and "Lydia" (right).)
+
 ## Photos
 ![01.jpg](01.jpg) ![02.jpg](02.jpg) ![03.jpg](03.jpg) ![04.jpg](04.jpg) ![05.jpg](05.jpg)
-![06.jpg](06.jpg) ![07.jpg](07.jpg) ![08.jpg](08.jpg) ![09.jpg](09.jpg)
+![06.jpg](06.jpg) ![07.jpg](07.jpg) ![08.jpg](08.jpg) ![09.jpg](09.jpg) ![10.jpg](10.jpg)

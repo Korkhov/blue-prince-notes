@@ -5,10 +5,10 @@
 |---|---|---|---|
 | I | садовник (мотыга) | **Рынна** (Rynna), покровительница садоводства | [журнал садовника](../../rooms/apple-orchard/docs/gardeners-logbook/ru.md) в Apple Orchard |
 | II | повар (лопата для хлеба) | | |
-| III | работник/фермер (грабли/вилы) | | |
+| III | работник/фермер (грабли/вилы) | **Дауджа** (Dauja), тот, что с вилами | подпись «Dauja» к рисунку статуи ангела в [Drafting Strategy, т. I](../../rooms/library/books/drafting-strategy-vol-1/ru.md) (через лупу) |
 | IV | трубочист (щётка для дымохода) | **Вея** (Veia) | подпись «VEIA» к статуе ангела в [Drafting Strategy, т. V](../../rooms/library/books/drafting-strategy-vol-5/ru.md) (страница про Tomb) |
 | V | горничная (метла) | **Мила** (MILA) | [статуэтка](../../rooms/maids-chamber/docs/mila-statuette/ru.md) в Maid's Chamber |
-| VI | наездник/охотник (хлыст) | | |
+| VI | наездник/охотник (хлыст) | **Лидия** (Lydia), тот, что с хлыстом | подпись «Lydia» к рисунку статуи ангела в [Drafting Strategy, т. I](../../rooms/library/books/drafting-strategy-vol-1/ru.md) (через лупу) |
 | VII | коронованная фигура (скипетр и книга) | | |
 
 - Порядок фигур на витражах используется в [Tomb](../../rooms/tomb/solutions.md) (статуи, проход в Catacombs).
