@@ -27,7 +27,6 @@
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
 - [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги: A New Clue, Drafting Strategy Vol. 4; Записать содержание купленной The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат
-- [ ] [Chapel](rooms/chapel/open-questions.md): Зачем зажигать свечи на алтаре
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
 - [ ] [Cloister](rooms/cloister/open-questions.md): Как попасть в зону посередине (внутренний двор с травой и статуей)
 - [ ] [Closed Exhibit](rooms/closed-exhibit/open-questions.md): Можно ли забрать бумажную корону
