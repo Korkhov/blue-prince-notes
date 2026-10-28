@@ -6,8 +6,9 @@
 - **8 закрытых комнат**: пока не открыты, что за ними — неизвестно.
 
 ## 8 ключей к 8 дверям
-В [Room 46](../room-46/docs/inner-sanctum-keys-rhyme/ru.md) лежит стишок о местах ключей. Статус: ключ 1 лежал в Room 46 (забран), 2 в сейфе (не забран), 3 в [Clock Tower](../clock-tower/solutions.md) (забран, Sanctum Key), 4 в Safehouse (забран), 5-8 неизвестны.
+В [Room 46](../room-46/docs/inner-sanctum-keys-rhyme/ru.md) лежит стишок о местах ключей; таблица, где какой лежит и что забрано, там же. Не найден только ключ «короля на троне» (вероятно, Throne Room).
 
 ## Открытые двери
 - **Дверь 1**: открыта, внутри механическая загадка по Realm & Rune (печать Orinda Aries): [Inner Sanctum 1](inner-sanctum-1/solutions.md).
 - **Дверь 2**: открыта, внутри механическая загадка с печатью Fenn Aries (решена): [Inner Sanctum 2](inner-sanctum-2/solutions.md).
+- **Двери 3, 4, 5**: открыты, внутри механические загадки по Realm & Rune: [Inner Sanctum 3](inner-sanctum-3/solutions.md), [4](inner-sanctum-4/solutions.md), [5](inner-sanctum-5/solutions.md). Загадки пока не решены.

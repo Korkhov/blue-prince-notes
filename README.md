@@ -34,11 +34,14 @@
 - [ ] [Furnace](rooms/furnace/open-questions.md): В комнате есть подача питания. Что она питает и где включается
 - [ ] [Gift Shop](rooms/gift-shop/open-questions.md): Купить товары и вести учёт в solutions.md; Собрать 8 трофеев, чтобы открыть Blue Tents; Узнать цену Blue Tents
 - [ ] [Her Ladyship's Chamber](rooms/her-ladyships-chamber/open-questions.md): Чьё послание «does it never end?»; Знак песочных часов: связь с Eraja и коробкой Mora Jai в Tomb; Рисунок на последней странице дневника: река и тропинка к квадратному строению, зачем он здесь
+- [ ] [Inner Sanctum 3](rooms/the-underpass/inner-sanctum-3/open-questions.md): Решить механическую загадку по Realm & Rune
+- [ ] [Inner Sanctum 4](rooms/the-underpass/inner-sanctum-4/open-questions.md): Решить механическую загадку по Realm & Rune
+- [ ] [Inner Sanctum 5](rooms/the-underpass/inner-sanctum-5/open-questions.md): Решить механическую загадку по Realm & Rune
 - [ ] [Laundry Room](rooms/laundry-room/open-questions.md): Стиральные машины питаются от Boiler Room. Что они делают, если запитать
 - [ ] [Mail Room](rooms/mail-room/open-questions.md): Получить как можно больше писем Рэндольфа
 - [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): Резервный бак питается от Boiler Room — что это даёт
-- [ ] [Room 46](rooms/room-46/open-questions.md): Найти ключи 5-8 к дверям Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
+- [ ] [Room 46](rooms/room-46/open-questions.md): Найти ключ «короля на троне» к двери Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
 - [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Что за разбиваемой стеной
 - [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Куда ведёт тоннель

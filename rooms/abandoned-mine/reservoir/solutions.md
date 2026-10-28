@@ -4,6 +4,7 @@
 
 - **Уровень воды** меняется из [Pump Room](../../pump-room/solutions.md).
 - При уровне воды **13** лодка позволяет переплыть на другую сторону резервуара.
+- Если опустить уровень воды до **0**, на дне лежит ключ к двери [Inner Sanctum](../../the-underpass/inner-sanctum.md) (ключ 4 из [стишка](../../room-46/docs/inner-sanctum-keys-rhyme/ru.md)).
 - При уровне воды **6** открывается проход в [Safehouse](../safehouse/solutions.md).
 - На другой стороне лежит **полная подземная карта**: [Underground Map](docs/underground-map/ru.md). Мелкий шрифт под пунктом 9 — «Buried floorplan» (нужна [лупа](../../../items/magnifying-glass/ru.md)). 
 - Это открыло **секретный план этажа: Machinarium**.
