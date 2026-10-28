@@ -28,7 +28,6 @@
 - [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги: A New Clue, Drafting Strategy Vol. 4; Записать содержание купленной The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
-- [ ] [Cloister](rooms/cloister/open-questions.md): Как попасть в зону посередине (внутренний двор с травой и статуей)
 - [ ] [Closed Exhibit](rooms/closed-exhibit/open-questions.md): Можно ли забрать бумажную корону
 - [ ] [Darkroom](rooms/darkroom/open-questions.md): Два снимка горничных с разной фокусировкой: что видно на фоне
 - [ ] [Dovecote](rooms/dovecote/open-questions.md): Что такое SD из записки «возвращаемся на восток»
