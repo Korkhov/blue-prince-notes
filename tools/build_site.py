@@ -66,7 +66,7 @@ def build_room(key):
     p = os.path.join(OUT, 'rooms', key)
     sol = read(os.path.join(p, 'solutions.md')) if os.path.exists(os.path.join(p, 'solutions.md')) else ''
     oq = read(os.path.join(p, 'open-questions.md')) if os.path.exists(os.path.join(p, 'open-questions.md')) else ''
-    name = re.sub(r'\s+—\s+решения$', '', title_from(sol, pretty(os.path.basename(key)))) if sol else pretty(os.path.basename(key))
+    name = re.sub(r'\s*[:—–-]\s*(решения|решено)\s*$', '', title_from(sol, pretty(os.path.basename(key))), flags=re.I) if sol else pretty(os.path.basename(key))
     subs = sorted(d for d in os.listdir(p) if d not in NOT_ROOM and os.path.isdir(os.path.join(p, d)))
     sub_res = [build_room(key + '/' + d) for d in subs]
     open_items = re.findall(r'^- \[ \].*$', oq, re.M)
@@ -76,7 +76,7 @@ def build_room(key):
     out.append('## ✅ Решения\n' + (fix_links(body_wo_title(sol)) or '_Пока пусто._'))
     out.append('\n## ❓ Открытые вопросы\n' + (fix_links(body_wo_title(oq)) or '_Нет._'))
     if sub_res:
-        out.append('\n## 🗺 Части\n' + '\n'.join(f'- [{n}]({k.split("/")[-1]}/)' + (f' — ❓ {c}' if c else '') for k, n, c in sub_res))
+        out.append('\n## 🗺 Части\n' + '\n'.join(f'- [{n}]({k.split("/")[-1]}/)' + (' ❓' if c else '') for k, n, c in sub_res))
     for sub, label in (('docs', '📄 Документы'), ('books', '📚 Книги')):
         sp = os.path.join(p, sub)
         if os.path.isdir(sp):
@@ -125,7 +125,7 @@ for d in (sorted(os.listdir(os.path.join(OUT, 'puzzles'))) if os.path.isdir(os.p
     if os.path.isdir(p): sb.append(f'  - [{pretty(d)}](/puzzles/{d}/)')
     elif d.endswith('.md') and d != 'README.md': sb.append(f'  - [{pretty(d[:-3])}](/puzzles/{d})')
 sb.append('- 🚪 **Комнаты**')
-sb += [f'  - [{n}{" ❓" + str(c) if c else ""}](/rooms/{k}/)' for k, n, c in rooms]
+sb += [f'  - [{n}{" ❓" if c else ""}](/rooms/{k}/)' for k, n, c in rooms]
 sb.append('- [🎒 Предметы](/items/)')
 sb.append('- 📄 **Документы (комната неизвестна)**')
 seen = set()
@@ -145,7 +145,7 @@ total_open = sum(c for _, _, c in rooms)
 home = ['# Blue Prince — заметки\n',
         f'[❓ Что не решено](/todo) · [📜 Сюжет](/story/timeline.md) · [🧩 Загадки](/puzzles/) · [🎒 Предметы](/items/)\n',
         '> Поиск — в боковом меню (☰ внизу слева).\n',
-        '## 🚪 Комнаты\n' + ('' if rooms else '_Пока пусто._') + '\n'.join(f'- [{n}](/rooms/{k}/)' + (f' — ❓ {c}' if c else ' — ✅') for k, n, c in rooms),
+        '## 🚪 Комнаты\n' + ('' if rooms else '_Пока пусто._') + '\n'.join(f'- [{n}](/rooms/{k}/)' + (' ❓' if c else '') for k, n, c in rooms),
         '\n## 📄 Документы без комнаты\n' + ('' if any(k.startswith('documents/') for k in doc_index) else '_Пока пусто._') + '\n'.join(sorted({f'- [{pretty(k.split("/")[1])}](/documents/{k.split("/")[1]}/)' for k in doc_index if k.startswith('documents/')}))]
 readme = read(os.path.join(ROOT, 'README.md'))
 m = re.search(r'## Игровой прогресс.*', readme, re.S)
