@@ -66,6 +66,7 @@ Greenhouse, за разбитой стеной. Автор: **Денни Рев�
 ## Заметки
 - Рычаги Antechamber по схеме: у Secret Garden резервный Mechanarium; у Great Hall резервный Secret Garden (sealed); у Greenhouse резервный [Weight Room](../../../weight-room/solutions.md) (sealed). См. [Antechamber](../../../antechamber/solutions.md).
 - Ср. новый журнал: [Журнал садовника Ногулы](../../../apple-orchard/docs/gardeners-logbook/ru.md); Денни: [записка про возврат почты](../../../mail-room/docs/denny-revane-return-note/ru.md).
+- Чан и перегонный куб со стр. 6: [Trading Post](../../../trading-post/solutions.md) (за разбитой стеной).
 - Вырезанные буквы на столе рядом: [фото](../../photos/cut-out-letters.jpg).
 
 ## Photos / Фото
