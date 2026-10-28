@@ -20,4 +20,4 @@
 3. Пять фиолетовых → включается шестой.
 4. Белый появляется **только** когда все 6 фиолетовые.
 - Военный и девушка с родинкой в двойной рамке — **Саймон Х. Синклер и Клара Эпсен** ([портрет](docs/double-portrait-soldier-woman/ru.md)).
-- Рычаги Antechamber: западный — [Secret Garden](../secret-garden/solutions.md), восточный — [Great Hall](../great-hall/solutions.md), также [Greenhouse](../greenhouse/solutions.md) и [Inner Sanctum](../the-underpass/inner-sanctum.md); см. [Antechamber](../antechamber/solutions.md) ([записка](docs/antechamber-lever-note/ru.md)).
+- Рычаги Antechamber: резервный южный — [Weight Room](../weight-room/solutions.md); западный — [Secret Garden](../secret-garden/solutions.md), восточный — [Great Hall](../great-hall/solutions.md), также [Greenhouse](../greenhouse/solutions.md) и [Inner Sanctum](../the-underpass/inner-sanctum.md); см. [Antechamber](../antechamber/solutions.md) ([записка](docs/antechamber-lever-note/ru.md)).

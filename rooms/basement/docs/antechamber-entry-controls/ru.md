@@ -10,7 +10,7 @@
 
 ## Заметка
 - Совпадает с уже найденными рычагами: [Secret Garden](../../../secret-garden/solutions.md) (запад), [Great Hall](../../../great-hall/solutions.md) (восток), [Greenhouse](../../../greenhouse/solutions.md) (юг), [Inner Sanctum](../../../the-underpass/inner-sanctum.md) (север, underground).
-- Значит, у каждой двери есть ещё **резервный рычаг в неизвестном месте**.
+- Значит, у каждой двери есть ещё **резервный рычаг**. Южный: [Weight Room](../../../weight-room/solutions.md).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)
