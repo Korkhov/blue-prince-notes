@@ -44,7 +44,7 @@
 - [ ] [Room 46](rooms/room-46/open-questions.md): Забрать ключ 1 здесь; Найти ключи 5-8 к дверям Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
 - [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Что за разбиваемой стеной
 - [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
-- [ ] [The Grounds](rooms/the-grounds/open-questions.md): Тоннель: чем и как зажигаются факелы; куда ведёт тоннель
+- [ ] [The Grounds](rooms/the-grounds/open-questions.md): Куда ведёт тоннель
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora

@@ -7,4 +7,4 @@
 - [Питание от Boiler Room](boiler-power.md): Laboratory, Laundry Room, Pump Room
 - [Сейфы](safes.md): открыто 4
 - [Mora Jai](mora-jai/README.md): коробки-головоломки, 1 найдена и открыта (Trading Post)
-- [Секретные планы](secret-floorplans.md): Conservatory, Machinarium
+- [Секретные планы](secret-floorplans.md): Conservatory, Machinarium, Tunnel
