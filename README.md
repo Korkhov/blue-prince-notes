@@ -50,7 +50,7 @@
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
 - [ ] [The Precipice](rooms/the-precipice/open-questions.md): Загадка CASTLE за разбитой стеной
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
-- [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа
+- [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа; Что значат 6 красных букв на паспорте Саманты Хейс (пока видны I и D)
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
 
 ## Игровой прогресс
