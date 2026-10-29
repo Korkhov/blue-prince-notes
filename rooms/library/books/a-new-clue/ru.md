@@ -54,6 +54,7 @@
 ## Заметка (мои наблюдения, не факты из игры)
 - Названия на корешках выглядят как **анаграммы** названий книг игры: **Uncle Awe** = *A New Clue*, **Lunar Renamed** = *Realm and Rune* ([книга](../realm-and-rune/ru.md)), **Draft the Sixes** (и «Shifted extras», «the fixed St…» на доске) = *The Fixed Stars* ([книга](../the-fixed-stars/ru.md)). Буквы пересчитал. С **Tender Cipher** анаграмму не нашёл.
 - Цвета корешков (красный, зелёный, фиолетовый, синий) совпадают с порядком в списке RED GREEN VIOLET BLUE. Это похоже на схему «четыре книги, у каждой страница и слово».
+- Решено: страница 7 (сыщик на полу, ваза и молоток) указывает на вазу в Entrance Hall с микрочипом; Corner Cases (Patio, Nook, Office, Pantry) даёт слова «Buried besides west bridge» — микрочип у моста на West Path. Подробнее: [Blackbridge Grotto](../../../blackbridge-grotto/solutions.md).
 - Угловые комнаты в «Corner Cases» и тупиковые в «Dead Cases» выглядят как перечень комнат; «dead end ≈ major key» и «A. Key» играют на слове *key* (ключ, тональность). Что из этого загадка, не знаю.
 - Подписи Simon P. Jones в формуляре этой книги тёмные, не красные (в формулярах журналов Drafting Strategy они красные).
 
