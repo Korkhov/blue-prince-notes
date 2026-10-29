@@ -6,6 +6,6 @@
 - [Четыре огня перед особняком](gas-flames.md): ✅ решено: все 4 зажжены, открылся лифт вниз
 - [Питание от Boiler Room](boiler-power.md): Laboratory, Laundry Room, Pump Room
 - [Сейфы](safes.md): 6 найденных, все открыты
-- [Mora Jai](mora-jai/README.md): коробки-головоломки, 7 найдено, все решены (Trading Post, Master Bedroom, Tomb, Inner Sanctum 1, Solarium, Tunnel, Room 46)
+- [Mora Jai](mora-jai/README.md): коробки-головоломки, 8 найдено, все решены (Trading Post, Master Bedroom, Tomb, Inner Sanctum 1, Solarium, Tunnel, Room 46, Lost & Found)
 - [Секретные планы](secret-floorplans.md): найдено 5 (Conservatory, Lost & Found, Planetarium, Machinarium, Tunnel)
 - [Ангелы-покровители](patron-angels/README.md): известны имена всех 8
