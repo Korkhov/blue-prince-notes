@@ -28,7 +28,7 @@
 
 ## Заметка
 - Подпись **Simon P. Jones 23 нояб 1993** красными чернилами, как и в других книгах Library (вероятно, подпись игрока).
-- Это Vol. **III** (экземпляр в Library); в [Bookshop](../../../bookshop/solutions.md) продаются Vol. IV и V — их содержание ещё неизвестно.
+- Это Vol. **III** (экземпляр в Library); в [Bookshop](../../../bookshop/solutions.md) продаются Vol. IV и V, их содержание: [IV](../drafting-strategy-vol-4/ru.md), [V](../drafting-strategy-vol-5/ru.md).
 
 ## Photos / Фото
 ![01.jpg](01.jpg)
