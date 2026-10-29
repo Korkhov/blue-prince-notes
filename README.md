@@ -44,7 +44,6 @@
 - [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): Резервный бак питается от Boiler Room — что это даёт
 - [ ] [Room 46](rooms/room-46/open-questions.md): Найти ключ «короля на троне» к двери Inner Sanctum; Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries, последнее = Fenn Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
-- [ ] [Secret Garden](rooms/secret-garden/open-questions.md): Что за разбиваемой стеной
 - [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Куда ведёт тоннель; как убрать коробки в тоннеле
 - [ ] [Private Drive](rooms/the-grounds/private-drive/open-questions.md): Как открыть ворота

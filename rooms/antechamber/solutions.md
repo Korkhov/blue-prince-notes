@@ -7,3 +7,4 @@
 - Схема [Antechamber Entry Controls](../basement/docs/antechamber-entry-controls/ru.md) (найдена в Basement) также упоминает резервные рычаги в нераскрытых местах.
 - Резервный рычаг южной двери: [Weight Room](../weight-room/solutions.md) (за разбитой стеной).
 - Рычаги по [журналу Денни](../greenhouse/docs/original-gardeners-logbook/ru.md): основной / резервный: Secret Garden / Mechanarium; Great Hall / Secret Garden (sealed); Greenhouse / [Weight Room](../weight-room/solutions.md) (sealed).
+- Запасной рычаг восточной двери: [Secret Garden](../secret-garden/solutions.md), за разбитой стеной; флюгер крутится, после чего открывается рычаг, открывающий восточную дверь.
