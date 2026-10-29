@@ -27,3 +27,4 @@
 - [Keycard](keycard/): карта-пропуск, открывает электронные двери безопасности
 - [Basement Key](basement-key/): ключ от подвала, найден в Antechamber
 - [Sanctum Key](sanctum-key/): ключ к одной из дверей Inner Sanctum, награда за часы в Clock Tower
+- [Ключ от ящика в Archives](archives-drawer-key/): выкопан в Patio, открывает один из ящиков Archives

@@ -21,7 +21,7 @@
 ## Что ещё не решено
 - [ ] [Красные письма](documents/red-letters/README.md): найдены №2, 4, 5, SIX, VII и прощальное письмо X; остальные, судя по нумерации (№1, 3), где-то в сейфах/тайниках
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
-- [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли на двух крестиках (Patio, Laundry Room) и у стрелочки в Archives
+- [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли на крестике в Laundry Room и у стрелочки в Archives
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
 - [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): Где найти два недостающих микрочипа и что даёт подключение всех трёх
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
