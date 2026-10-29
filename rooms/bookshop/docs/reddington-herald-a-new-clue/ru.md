@@ -11,7 +11,7 @@
 
 ## Заметка
 - Согласуется с линией Мэри: Марион Мэриголд — автор [«The Red Prince»](../../../nursery/docs/the-red-prince-book/ru.md) и [«Swim Bird»](../../../library/books/swim-bird/ru.md); исчезновение 20 февр. '87 ([timeline](../../../../story/timeline.md)), значит, «A New Clue» вышла примерно через 14 месяцев. Прямо в статье Мэри не названа.
-- Книга «A New Clue» продаётся в [Bookshop](../../solutions.md) (50 монет).
+- Книга «A New Clue» продаётся в [Bookshop](../../solutions.md) (50 монет), [текст книги](../../../library/books/a-new-clue/ru.md).
 - Маргл (REDGUARD): [письмо и книга](../../../library/books/the-history-of-orindia/letter-margle/ru.md).
 
 ## Photos / Фото
