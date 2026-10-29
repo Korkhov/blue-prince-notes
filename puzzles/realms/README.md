@@ -24,7 +24,7 @@
 - Печать Orinda Aries (из [Inner Sanctum 1](../../rooms/the-underpass/inner-sanctum-1/solutions.md)): 3 луча с засечками, 5 мотков, кайма из точек. Печать Fenn Aries: пятиугольник, 4 луча-крест с засечками, 8 мотков «W», красная кайма.
 
 ## Где королевства на картах
-- **Ettsphere, 3-я эра** (материк Orindia): Arch Aries (северо-восток), Orinda Aries (центр), Nuance и Farther Nuance (запад, юго-запад), Eraja (юго-восток). ([карта](../../rooms/classroom/docs/grade-4-map-ettsphere/ru.md))
+- **Ettsphere, 3-я эра** (материк Orindia): Orinda Aries (центр), к северу от неё Arch Aries, к югу Eraja, к западу Nuance (и Farther Nuance). ([карта](../../rooms/classroom/docs/grade-4-map-ettsphere/ru.md))
 - **Orrsphere, 3-я эра** (материк Moraven): Mora Jai (северо-восток), Corarica (запад, большая суша), Verra (юго-восток). ([карта](../../rooms/classroom/docs/grade-4-map-orrsphere/ru.md))
 - Карта Fenn Aries на доске Grade 4: Arch Aries на севере, Eraja на юго-востоке, города Fenn, Reddington, Oris. ([доска](../../rooms/classroom/docs/grade-4-geography-board/ru.md))
 - Листы Grade 4 с 7 областями: ядра на них (сердце, полукруг, вытянутая фигура, горы, пятиугольник, ромб, песочные часы) выведены по оценкам; имена для полукруга и ромба не определены. ([листы](../../rooms/classroom/docs/grade-4-geography-worksheets/ru.md))
@@ -32,6 +32,10 @@
 ## История
 - **Fenn Aries** («Великое королевство»): образовано в конце войны Пятой эры; красные плитки Mora Jai в честь победы генерала Тескина над армией Десилетов ([реклама](../../rooms/the-underpass/inner-sanctum-2/docs/mora-jai-box-fenn-aries-advert/ru.md)).
 - **Orinda Aries**: после войны уничтожили множество артефактов с её «печально известным чёрным символом» ([реклама](../../rooms/the-underpass/inner-sanctum-1/docs/mora-jai-box-orinda-aries-advert/ru.md)).
+
+## Подсказка из Clock Tower (осколок и стих про лебедя)
+[Стих](../../rooms/clock-tower/docs/swan-crow-poem/ru.md): «На юге я вижу лебедя, пепельного, как пески берега, несомого западными ветрами, мятежного, как луна севера. На востоке я вижу ворона…». Первые буквы строк дают **SACRED** (предположительно «sacred hour» 13:30). Юг от Orinda на карте Ettsphere: **Eraja**, лебедь (герб Эпсенов). На осколке из Clock Tower вырезан цветок.
+- Предположительно: общество Eraja = **Poetic** (цветок). «Пепельный» = серый, но серого среди цветов знамён и целей Mora Jai нет; цвет знамени Eraja по коробке Mora Jai (песочные часы, Tomb) выведен как фиолетовый.
 
 ## Порядок посещения Гербертом (карта в Room 46)
 Карта «8 realms in 8 months» в [Room 46](../../rooms/room-46/docs/realm-map-pins/ru.md): под рамкой восемь булавок с цифрами; нужно указать на карте королевства **по порядку посещения Гербертом**.
