@@ -1,2 +1,5 @@
 # Inner Sanctum 3
-Дверь 3 открыта. Внутри механическая загадка по [Realm & Rune](../../library/books/realm-and-rune/ru.md), как в [Inner Sanctum 1](../inner-sanctum-1/solutions.md).
+Дверь 3 открыта. Внутри механическая загадка по [Realm & Rune](../../library/books/realm-and-rune/ru.md), как в [Inner Sanctum 1](../inner-sanctum-1/solutions.md). Символ в центре: **горы** (тот же символ, что на угловых кнопках одной из коробок [Mora Jai](../../../puzzles/mora-jai/README.md)). Загадка не решена, как решать, пока непонятно.
+
+## Вид (не решено)
+[Фото](photos/sigil-mechanism-unsolved.jpg): на стене круглая печать с символом гор в центре, по кругу 8 звёздочек в клиньях, тонкие лучи и кайма из белых точек двух размеров; впереди пульт с колесом, рычагом и кнопкой.
