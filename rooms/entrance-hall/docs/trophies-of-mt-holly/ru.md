@@ -2,7 +2,7 @@
 Entrance Hall. Список трофеев («Признание выдающихся заслуг»). Отметка стоит только у Inheritance Trophy (на момент снимка).
 
 Левая колонка:
-- [ ] **Full House**: выбрать комнату в каждый открытый слот дома
+- [x] **Full House**: выбрать комнату в каждый открытый слот дома
 - [ ] **Explorer's**: заполнить Mount Holly Directory
 - [ ] **Bullseye**: решить 40 загадок с дартсом (Dartboard)
 - [ ] **A Logical**: выиграть 40 Parlor Games
@@ -22,7 +22,7 @@ Entrance Hall. Список трофеев («Признание выдающи�
 - [ ] **Trophy of Trophies**: заполнить Trophy Case
 
 ## Заметка
-- Получены позже снимка: Invention ([Workshop](../../../workshop/docs/trophy-of-invention/ru.md)), Day One, Speed.
+- Получены позже снимка: Full House, Invention ([Workshop](../../../workshop/docs/trophy-of-invention/ru.md)), Day One, Speed.
 - Trophy 8: решена Room 8 ([решение](../../../room-8/solutions.md)).
 - Inheritance получен (письмо [«Дорогой Барон»](../baron-inheritance-letter/ru.md)).
 - Про «Sigils»: см. [Classroom Grade 4](../../../classroom/docs/grade-4-geography-board/ru.md) (8 регионов, предположение).

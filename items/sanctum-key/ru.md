@@ -3,4 +3,6 @@
 
 Ключ 6 из того же стишка (Sanctum Key) лежал в [Safehouse](../../rooms/abandoned-mine/safehouse/solutions.md); забран.
 
+Ещё один Sanctum Key лежал в ячейке 370 в [Vault](../../rooms/vault/solutions.md); забран.
+
 Описания и фото ключа пока нет.

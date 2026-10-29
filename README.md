@@ -25,7 +25,7 @@
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
 - [ ] [Blackbridge Grotto](rooms/blackbridge-grotto/open-questions.md): Где найти два недостающих микрочипа и что даёт подключение всех трёх
 - [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
-- [ ] [Bookshop](rooms/bookshop/open-questions.md): Купить книги: A New Clue, Drafting Strategy Vol. 4; Записать содержание купленной The Curse of Black Bridge
+- [ ] [Bookshop](rooms/bookshop/open-questions.md): Записать содержание купленной The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
 - [ ] [Closed Exhibit](rooms/closed-exhibit/open-questions.md): Можно ли забрать бумажную корону
@@ -50,7 +50,7 @@
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
 - [ ] [The Precipice](rooms/the-precipice/open-questions.md): Загадка CASTLE за разбитой стеной
 - [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
-- [ ] [Vault](rooms/vault/open-questions.md): Забрать ключ 2 из сейфа; Что значат 6 красных букв на паспорте Саманты Хейс (пока видны I и D)
+- [ ] [Vault](rooms/vault/open-questions.md): Что значат 6 красных букв на паспорте Саманты Хейс (пока видны I и D)
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
 
 ## Игровой прогресс

@@ -13,6 +13,7 @@
 - **Дверь 1**: открыта, внутри механическая загадка по Realm & Rune (печать Orinda Aries): [Inner Sanctum 1](inner-sanctum-1/solutions.md).
 - **Дверь 2**: открыта, внутри механическая загадка с печатью Fenn Aries (решена): [Inner Sanctum 2](inner-sanctum-2/solutions.md).
 - **Двери 3, 4, 5**: открыты, внутри механические загадки по Realm & Rune: [Inner Sanctum 3](inner-sanctum-3/solutions.md), [4](inner-sanctum-4/solutions.md), [5](inner-sanctum-5/solutions.md). Загадки пока не решены.
+- **Дверь 6**: открыта: [Inner Sanctum 6](inner-sanctum-6/solutions.md).
 
 ## Подсказки
 - Каменные осколки с символами: один в [Clock Tower](../clock-tower/solutions.md), другой в [Lost & Found](../lost-and-found/solutions.md) ([фото](../lost-and-found/photos/stone-fragment.jpg)); это подсказки для загадок Inner Sanctum.
