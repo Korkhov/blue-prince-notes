@@ -37,6 +37,11 @@
 [Стих](../../rooms/clock-tower/docs/swan-crow-poem/ru.md): «На юге я вижу лебедя, пепельного, как пески берега, несомого западными ветрами, мятежного, как луна севера. На востоке я вижу ворона…». Первые буквы строк дают **SACRED** (предположительно «sacred hour» 13:30). Юг от Orinda на карте Ettsphere: **Eraja**, лебедь (герб Эпсенов). На осколке из Clock Tower вырезан цветок.
 - Предположительно: общество Eraja = **Poetic** (цветок). «Пепельный» = серый, но серого среди цветов знамён и целей Mora Jai нет; цвет знамени Eraja по коробке Mora Jai (песочные часы, Tomb) выведен как фиолетовый.
 
+### Где в заметках встречаются ворон и лебедь
+- **Ворон:** картинка-пара CROW/ROW (3.1) и CROWN/CROW (8.4) в [буквах по клеткам](../picture-letters/README.md) (пара Crowd/Crow есть и среди неиспользованных на [доске Study](../../rooms/study/docs/letters-chalkboard/ru.md)); гравюра ворона на доске [Grade 5, Art](../../rooms/classroom/docs/grade-5-art-boards/ru.md); [«The Red Prince»](../../rooms/nursery/docs/the-red-prince-book/ru.md): красный принц не выносил вида канарейки, вороны и белизны лебедя на снегу; в [Drafting Strategy, т. I](../../rooms/library/books/drafting-strategy-vol-1/ru.md) «воронов» (raven) оттенок = чёрный цвет бумаги планов.
+- **Лебедь:** герб Эпсенов (лебедь над водой и две пики), лебеди на озере Тринсдейл, пароль сети **SWANSONG**.
+- Восток от Orinda на Ettsphere переходит на карту Orrsphere, где лежит Corarica (сердце): связь с вороном предположительно, прямого указания нет.
+
 ## Порядок посещения Гербертом (карта в Room 46)
 Карта «8 realms in 8 months» в [Room 46](../../rooms/room-46/docs/realm-map-pins/ru.md): под рамкой восемь булавок с цифрами; нужно указать на карте королевства **по порядку посещения Гербертом**.
 - **1-е: Orinda Aries.** [Открытка из Black Bridge Hotel and Spa](../../rooms/the-underpass/inner-sanctum-1/docs/herbert-postcard-black-bridge/ru.md): путь повёл «на юг», первое место: «фрагмент старого королевства, такое же чёрное в королевстве, как и в названии» (чёрное знамя Orinda Aries).
