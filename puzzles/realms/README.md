@@ -27,6 +27,7 @@
 - **Ettsphere, 3-я эра** (материк Orindia): Orinda Aries (центр), к северу от неё Arch Aries, к югу Eraja, к западу Nuance (и Farther Nuance). ([карта](../../rooms/classroom/docs/grade-4-map-ettsphere/ru.md))
 - **Orrsphere, 3-я эра** (материк Moraven): Mora Jai (северо-восток), Corarica (запад, большая суша), Verra (юго-восток). ([карта](../../rooms/classroom/docs/grade-4-map-orrsphere/ru.md))
 - Карта Fenn Aries на доске Grade 4: Arch Aries на севере, Eraja на юго-востоке, города Fenn, Reddington, Oris. ([доска](../../rooms/classroom/docs/grade-4-geography-board/ru.md))
+- Тест History в Classroom, Grade 6 (ответы выведены по оценкам): первый коронованный правитель Fenn Aries — генерал Тескин; Eraja не была союзником Fenn Aries; после войны запрещён чёрный флаг (цвет Orinda Aries). ([тест](../../rooms/classroom/docs/grade-6-history-worksheets/ru.md))
 - Листы Grade 4 с 7 областями: ядра на них (сердце, полукруг, вытянутая фигура, горы, пятиугольник, ромб, песочные часы) выведены по оценкам; имена для полукруга и ромба не определены. ([листы](../../rooms/classroom/docs/grade-4-geography-worksheets/ru.md))
 
 ## История
