@@ -14,5 +14,8 @@
 - **Дверь 2**: открыта, внутри механическая загадка с печатью Fenn Aries (решена): [Inner Sanctum 2](inner-sanctum-2/solutions.md).
 - **Двери 3–6**: открыты, внутри механические загадки по Realm & Rune; символы в центре: горы ([3](inner-sanctum-3/solutions.md)), песочные часы ([4](inner-sanctum-4/solutions.md)), сердце ([5](inner-sanctum-5/solutions.md)), полукруг ([6](inner-sanctum-6/solutions.md)). Не решены, фото на страницах дверей. В отличие от дверей 1 и 2 (там решение было очевидно), как решать эти, пока непонятно.
 
+## Королевства и головоломки
+Каждая головоломка своя и относится к одному королевству: 1 Orinda Aries, 2 Fenn Aries, 3 Arch Aries (горы), 4 Eraja (песочные часы), 5 Corarica (сердце), 6 полукруг (королевство не определено). Сводка: [Королевства](../../puzzles/realms/README.md).
+
 ## Подсказки
 - Каменные осколки с символами: один в [Clock Tower](../clock-tower/solutions.md), другой в [Lost & Found](../lost-and-found/solutions.md) ([фото](../lost-and-found/photos/stone-fragment.jpg)); это подсказки для загадок Inner Sanctum.
