@@ -1,6 +1,6 @@
 # Workshop: решено
 - Ноты решены (место: Campsite, секретный план Conservatory), см. [solutions](../../puzzles/sheet-music/solutions.md).
-- Судя по трофею, всего можно собрать **8 предметов** (комбинируя инвентарь). Уже собран **Burning Glass**.
+- Все **8 устройств** Workshop собраны, получен [Trophy of Invention](docs/trophy-of-invention/ru.md).
 - Рецепты Workshop:
   - [Magnifying Glass](../../items/magnifying-glass/ru.md) + [Metal Detector](../../items/metal-detector/ru.md) = [Burning Glass](../../items/burning-glass/ru.md);
   - [Metal Detector](../../items/metal-detector/ru.md) + [Shovel](../../items/shovel/ru.md) = **Detector Shovel** ([рецепт](docs/recipe-detector-shovel/ru.md)): больше шанс найти монеты и ключи, при раскопках намного больше.
