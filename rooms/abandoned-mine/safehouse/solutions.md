@@ -8,3 +8,4 @@
   - [Фотография: трое](docs/photograph-three-people/ru.md);
   - [Табличка «We seek what's in the shade of truth»](docs/sign-we-seek-shade-of-truth/ru.md);
   - [Карта метро Orinda Aries](docs/orinda-aries-train-metro/ru.md).
+  - [Заметка с мониторами «DELETE IT!!»](docs/monitors-delete-it-sketch/ru.md): похоже на мониторы в [Security](../../security/solutions.md); надо посмотреть, что на них.

@@ -8,7 +8,7 @@
 - Ср. Darkroom: «…een memos found in Hartley's room are always false».
 - Примеры: машинописная красная карточка «SAFE CODE 9083» — ложь (код Office 0303). Красная табличка в Laboratory «почта только через Security» напечатана → по правилу **ложь**.
 
-- [Заметка с мониторами «DELETE IT!!»](docs/monitors-delete-it-sketch/ru.md).
+- [Заметка с мониторами «DELETE IT!!»](docs/monitors-delete-it-sketch/ru.md); такая же заметка есть в [Safehouse](../abandoned-mine/safehouse/docs/monitors-delete-it-sketch/ru.md).
 
 ## Пароль терминала ✅ (прочитан через лупу)
 - **SWANSONG** ✅ — зачёркнут на [объявлении для персонала](docs/staff-notice-terminals/ru.md), читается через лупу.
