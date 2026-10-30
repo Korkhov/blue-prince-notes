@@ -22,7 +22,7 @@
 - [ ] [Красные письма](documents/red-letters/README.md): найдены №2, 4, 5, SIX, VII и прощальное письмо X; остальные, судя по нумерации (№1, 3), где-то в сейфах/тайниках
 - [ ] [Королевства](puzzles/realms/README.md): Определить транспорт, погоду и общество для Arch Aries, Eraja, Corarica; Определить Nuance, Verra и Mora Jai; Расставить королевства на карте в Room 46
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
-- [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли на крестике в Laundry Room и у стрелочки в Archives
+- [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли у стрелочки в Archives
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
 - [ ] [Bookshop](rooms/bookshop/open-questions.md): Записать содержание купленной The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат

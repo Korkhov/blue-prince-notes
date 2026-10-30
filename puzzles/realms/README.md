@@ -32,6 +32,8 @@
 - Тест History в Classroom, Grade 6: первый коронованный правитель Fenn Aries — генерал Тескин; город Орис назван по историческому лицу; Eraja не была союзником Fenn Aries; после войны запрещён чёрный флаг (цвет Orinda Aries). ([тест](../../rooms/classroom/docs/grade-6-history-worksheets/ru.md))
 - Листы Grade 4 с 7 областями: правильно 1 сердце (Corarica), 2 полукруг (Mora Jai), 3 прямоугольник с кругом (Verra), 4 горы (Arch Aries), 5 пятиугольник (Fenn Aries, на глобусах 3-й эры там Orinda Aries), 6 ромб (Nuance), 7 песочные часы (Eraja); названия для 2, 3, 6 — по положению на картах (мой вывод). ([листы](../../rooms/classroom/docs/grade-4-geography-worksheets/ru.md))
 
+- Папка вырезок о Desilets в Archives: 1886 — мир и бегство королевской семьи в Eraja; 1924 — принцесса Кейтлин Дже Ари родилась в изгнании по эраджанскому обычаю; 1929 — корона разбирает железные дороги, Eraja ходила по ним на север к Arch Aries, требует отозвать убежище. Последняя страница — печать Eraja (песочные часы, три вертикальные линии, два цветка). ([вырезки](../../rooms/archives/docs/desilets-exile-clippings/ru.md))
+
 ## Язык Eraja
 Уроки эраджанского в Classroom, Grade 8: [доска](../../rooms/classroom/docs/grade-8-erajan-board/ru.md), [словарь](../../rooms/classroom/docs/grade-8-erajan-vocabulary/ru.md), [приставки и суффиксы](../../rooms/classroom/docs/grade-8-erajan-affixes/ru.md), [работы](../../rooms/classroom/docs/grade-8-erajan-worksheets/ru.md). Ранний эраджанский обходился без глаголов.
 
