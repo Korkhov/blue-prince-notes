@@ -3,7 +3,7 @@ Classroom, **8-й класс**. Три проверенные работы; оц
 
 **Фразы:** 1. «Привет, можешь научить меня новому слову?» 2. «Большой дом — к востоку.» 3. «Я буду плавать на рассвете.» 4. «Я не буду читать ночью.» 5. «Ветви дерева стары.» 6. «Ствол дерева мал.»
 
-| № | Maurice Jacobs (5/6, B+) | Trissa J. (4/6, C) | Phoebe H. (4/6, C) | Правильный ответ (мой вывод) |
+| № | Maurice Jacobs (5/6, B+) | Trissa J. (4/6, C) | Phoebe H. (4/6, C) | Правильный ответ |
 |---|---|---|---|---|
 | 1 | Ajlor Nevlor | Ajlor Ulteach Nevlor | Ajlor Ulteach Nevlor | **Ajlor Ulteach Nevlor** |
 | 2 | Hewam Ovett | Hewam Ovett | Hewam Ovett | **Hewam Ovett** |
@@ -14,16 +14,21 @@ Classroom, **8-й класс**. Три проверенные работы; оц
 
 Подсказка учителя на листе Trissa: «You should remember the Erajan terms for these» («нужно помнить эраджанские слова для этих»).
 
-## Правильные ответы
-Выведено по оценкам и словарю (5, 4 и 4 из 6; это моё решение, не подтверждение из игры). **Проверка:** Maurice — верны 2, 3, 4, 5 («Acceptable» засчитан), 6 = 5/6; Trissa — верны 1, 2, 3, 4 = 4/6; Phoebe — верны 1, 2, 5, 6 = 4/6; все три оценки сходятся. Единственный набор, дающий эти оценки (в 5-м у Maurice «Acceptable» засчитан):
-1. **Ajlor Ulteach Nevlor** (у Maurice нет «Ulteach»);
-2. **Hewam Ovett**;
-3. **Elswim Nevdau** (у Phoebe «Ajdau» неверно);
-4. **Readle Nai** (у Phoebe «Leread» неверно);
-5. **Treivenven** («Ven Treiven» принято как допустимый вариант; Trissa написала английское «branch»);
-6. **Manevtrei** (Trissa написала английское «trunk»).
+## Правильные ответы и пословный перевод
+Дал игрок (подтверждено; совпадает с прежним выводом по оценкам: Maurice 5/6, Trissa 4/6, Phoebe 4/6):
 
-Разбор по [словарю](../grade-8-erajan-vocabulary/ru.md) и [приставкам и суффиксам](../grade-8-erajan-affixes/ru.md): Ajlor = aj (первый) + lor (слово); Ulteach = ul (ты буду) + teach; Nevlor = новое слово; Hewam = hew (дом) + am (большой); Ovett = ov (к) + ett (восток); Elswim = el (я буду) + swim; Nevdau = nev + dau (начало дня, рассвет); Readle = read + le (я не буду); Manevtrei = ma (малый) + nev (начало) + trei (дерево) = ствол; Treivenven = trei + ven (конец) + ven (старый) = старые ветви. Поэтому «Leread» (приставка вместо суффикса) и «Ajdau» неверны.
+| Фраза | Правильный перевод | Пословно |
+|---|---|---|
+| Привет, можешь научить меня новому слову? | **Ajlor Ulteach Nevlor** | First-word You-teach New-word (первое слово, ты учишь, новое слово) |
+| Большой дом — к востоку | **Hewam Ovett** | House-large Toward-east (дом-большой, к-востоку) |
+| Я буду плавать на рассвете | **Elswim Nevdau** | I-swim Start-of-day (я-плыву, начало дня) |
+| Я не буду читать ночью | **Readle Nai** | Read-not-me Night (читать-не-я, ночь) |
+| Ветви дерева стары | **Treivenven** | Tree-end-of-old (дерево-конец-старого) |
+| Ствол дерева мал | **Manevtrei** | Small-start-of-tree (малое-начало-дерева) |
+
+Ошибки учеников: Maurice во фразе 1 пропустил «Ulteach»; у Phoebe «Ajdau» вместо «Nevdau» и «Leread» вместо «Readle» (приставка вместо суффикса); Trissa написала английские «branch» и «trunk». «Ven Treiven» у Maurice учитель принял («Acceptable»).
+
+Разбор по [словарю](../grade-8-erajan-vocabulary/ru.md) и [приставкам и суффиксам](../grade-8-erajan-affixes/ru.md): ul = «ты», el = «я», -le = «не я»; hew = дом, am = большой, ov = к, ett = восток; dau = день, nev = начало; trei = дерево, ven = конец / старый; ma = малый.
 
 ## Photos / Фото
 01 — Maurice Jacobs; 02 — Trissa J.; 03 — Phoebe H.
