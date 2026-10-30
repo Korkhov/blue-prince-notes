@@ -38,4 +38,4 @@
 | [Room 46](room-46/ru.md) | пятиугольник | красный | ✅ решена |
 | [Lost & Found](lost-and-found/ru.md) | прямоугольник с кругом | розовый | ✅ решена |
 | [The Underpass](the-underpass/ru.md) | Orinda Aries | чёрный | ✅ решена |
-| [Unknown](unknown/ru.md) (5 коробок) | Orinda Aries (по виду на фото) | чёрный (по символу) | ✅ решена |
+| [Unknown](unknown/ru.md) (8 коробок) | Orinda Aries (по виду на фото) | чёрный (по символу) | ✅ решена |
