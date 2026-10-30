@@ -8,9 +8,9 @@
 |---|---|---|---|---|---|---|---|
 | 1 | **Orinda Aries** | вытянутая фигура с выступами | рельсовый транспорт (3 луча) | туман | Metropolitan, город-государство | чёрный | ✅ решена ([Inner Sanctum 1](../../rooms/the-underpass/inner-sanctum-1/solutions.md)) |
 | 2 | **Fenn Aries** | пятиугольник | дороги, улицы, кареты (4 луча-крест) | туман | Martial, воинственное | красный | ✅ решена ([Inner Sanctum 2](../../rooms/the-underpass/inner-sanctum-2/solutions.md)) |
-| 3 | **Arch Aries** | горы | не установлено | не установлено | не установлено | жёлтый\* | не решена ([Inner Sanctum 3](../../rooms/the-underpass/inner-sanctum-3/solutions.md)) |
-| 4 | **Eraja** | песочные часы | не установлено | не установлено | не установлено | фиолетовый\* | не решена ([Inner Sanctum 4](../../rooms/the-underpass/inner-sanctum-4/solutions.md)) |
-| 5 | **Corarica** | сердце («галочка») | не установлено | не установлено | не установлено | оранжевый\* | не решена ([Inner Sanctum 5](../../rooms/the-underpass/inner-sanctum-5/solutions.md)) |
+| 3 | **Arch Aries** | горы | не установлено | не установлено | не установлено | жёлтый (Grade 1) | не решена ([Inner Sanctum 3](../../rooms/the-underpass/inner-sanctum-3/solutions.md)) |
+| 4 | **Eraja** | песочные часы | не установлено | не установлено | не установлено | фиолетовый (Grade 1) | не решена ([Inner Sanctum 4](../../rooms/the-underpass/inner-sanctum-4/solutions.md)) |
+| 5 | **Corarica** | сердце («галочка») | не установлено | не установлено | не установлено | оранжевый (Grade 1) | не решена ([Inner Sanctum 5](../../rooms/the-underpass/inner-sanctum-5/solutions.md)) |
 | 6 | одно из **Nuance / Verra / Mora Jai** | полукруг | не установлено | не установлено | не установлено | белый\* | не решена ([Inner Sanctum 6](../../rooms/the-underpass/inner-sanctum-6/solutions.md)) |
 | 7 | одно из **Nuance / Verra / Mora Jai** | ромб (по виду печати) | не установлено | не установлено | не установлено | зелёный\* | не решена ([Inner Sanctum 7](../../rooms/the-underpass/inner-sanctum-7/solutions.md)) |
 | ? | одно из **Nuance / Verra / Mora Jai** | прямоугольник с кругом | не установлено | не установлено | не установлено | розовый\* | дверь не открыта |
