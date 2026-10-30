@@ -5,6 +5,7 @@
 
 | № | Письмо | Где найдено | Папка |
 |---|---|---|---|
+| 1 | Ворт Лауд — барону Синклеру, 8 мая: рассказы старых шахтёров, намёк на шантаж; красная записка вымогателей | The Underpass | [red-letter-1-worth-laude](../../rooms/the-underpass/docs/red-letter-1-worth-laude/ru.md) |
 | 2 | Калеб — «М.», 8 декабря: планы, музей, «гибкий» план Mt. Holly | Study (сейф, код 1208) | [red-letter-2-caleb](../../rooms/study/docs/red-letter-2-caleb/ru.md) |
 | 4 | Дэниел — Герберту: не замалчивать «исчезновение» Марион | Boudoir (сейф Synka за зеркалом) | [red-letter-four-daniel](../../rooms/boudoir/docs/red-letter-four-daniel/ru.md) |
 | 5 | Мэри — дяде, 8 ноября: уходят по горным тоннелям на север, послание для Саймона в Safehouse | Drafting Studio (маленький сейф на столе, код 1108) | [red-letter-5-mary](../../rooms/drafting-studio/docs/red-letter-5-mary/ru.md) |

@@ -8,6 +8,7 @@
 | Planetarium | [Observatory](../rooms/observatory/solutions.md) | в отсеке для линз телескопа ([письмо Рэндольфа](../rooms/mail-room/docs/randolph-observatory-floorplan/ru.md)) |
 | Machinarium | [Reservoir](../rooms/abandoned-mine/reservoir/solutions.md) | на дальней стороне резервуара, рядом с полной картой |
 | [Throne Room](../rooms/throne-room/solutions.md) | [Blackbridge Grotto](../rooms/blackbridge-grotto/solutions.md) | награда за три микрочипа в загадке на постаменте (чипы: ваза в Entrance Hall и клад у моста на West Path) |
+| Treasure Trove | [The Underpass](../rooms/the-underpass/solutions.md) | найден после открытия двери с навесным замком (MAY8) |
 | Tunnel | [The Grounds](../rooms/the-grounds/solutions.md) | в тоннеле, после того как зажжены два факела |
 
 Подсказка на карте: «Buried floorplan» (мелкий шрифт под пунктом 9, через лупу).

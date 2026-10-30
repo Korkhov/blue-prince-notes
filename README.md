@@ -24,7 +24,6 @@
 - [ ] [Reservoir](rooms/abandoned-mine/reservoir/open-questions.md): Где используется Machinarium
 - [ ] [Aquarium](rooms/aquarium/open-questions.md): Копать ли на крестике в Laundry Room и у стрелочки в Archives
 - [ ] [Basement](rooms/basement/open-questions.md): Зачем статуи, связь со статуями Chapel
-- [ ] [Boiler Room](rooms/boiler-room/open-questions.md): Красный ящик (красный блок): что он делает
 - [ ] [Bookshop](rooms/bookshop/open-questions.md): Записать содержание купленной The Curse of Black Bridge
 - [ ] [Casino](rooms/casino/open-questions.md): Что будет, если вставить Broken Lever в игровой автомат
 - [ ] [Clock Tower](rooms/clock-tower/open-questions.md): Расшифровать стих про лебедя и ворона
@@ -52,7 +51,6 @@
 - [ ] [West Path](rooms/the-grounds/west-path/open-questions.md): Фото помоста и входа; название внешней комнаты за ним
 - [ ] [Tomb](rooms/tomb/open-questions.md): Перевести письмо Uldjora
 - [ ] [The Precipice](rooms/the-precipice/open-questions.md): Загадка CASTLE за разбитой стеной
-- [ ] [The Underpass](rooms/the-underpass/open-questions.md): Включить красную дверь
 - [ ] [Vault](rooms/vault/open-questions.md): Что значат 6 красных букв на паспорте Саманты Хейс (пока видны I и D)
 - [ ] [Wine Cellar](rooms/wine-cellar/open-questions.md): Что означает MCCXIII (1213) на гербе и нужна ли дата где-то; Две или три пики в гербе Epsen
 

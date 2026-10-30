@@ -37,3 +37,4 @@
 | [Tunnel](tunnel/ru.md) | сердце | оранжевый | ✅ решена |
 | [Room 46](room-46/ru.md) | пятиугольник | красный | ✅ решена |
 | [Lost & Found](lost-and-found/ru.md) | прямоугольник с кругом | розовый | ✅ решена |
+| [The Underpass](the-underpass/ru.md) | Orinda Aries | чёрный | ✅ решена |
