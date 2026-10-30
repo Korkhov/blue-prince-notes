@@ -5,4 +5,6 @@
 
 Ещё один Sanctum Key лежал в ячейке 370 в [Vault](../../rooms/vault/solutions.md); забран.
 
+Ещё один Sanctum Key лежит в [Throne Room](../../rooms/throne-room/solutions.md) («король на троне»); забран.
+
 Описания и фото ключа пока нет.

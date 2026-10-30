@@ -20,7 +20,7 @@ Room 46. Лист с рисунком: восемь дверей по четыр
 | 2 | Vault, ячейка 370 | **забран** |
 | 3 | [Clock Tower](../../../clock-tower/docs/clock-puzzle-notes/ru.md) (загадка с часами), **Sanctum Key** | **забран** |
 | 4 | дно [Reservoir](../../../abandoned-mine/reservoir/solutions.md), если опустить воду до **0** через [Pump Room](../../../pump-room/solutions.md) | лежит |
-| 5 | «король на троне»: место неизвестно, вероятно комната Throne Room (предположение пользователя) | не найден |
+| 5 | «король на троне»: [Throne Room](../../../throne-room/solutions.md) | **забран** |
 | 6 | [Safehouse](../../../abandoned-mine/safehouse/solutions.md) (станция), **Sanctum Key** | **забран** |
 | 7 | [Music Room](../../../music-room/open-questions.md), если вытянуть её на Rank 9 | лежит |
 | 8 | Mechanarium, когда открыты все 8 дверей | лежит |
