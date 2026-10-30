@@ -30,6 +30,9 @@
 - Тест History в Classroom, Grade 6 (ответы выведены по оценкам): первый коронованный правитель Fenn Aries — генерал Тескин; Eraja не была союзником Fenn Aries; после войны запрещён чёрный флаг (цвет Orinda Aries). ([тест](../../rooms/classroom/docs/grade-6-history-worksheets/ru.md))
 - Листы Grade 4 с 7 областями: ядра на них (сердце, полукруг, вытянутая фигура, горы, пятиугольник, ромб, песочные часы) выведены по оценкам; имена для полукруга и ромба не определены. ([листы](../../rooms/classroom/docs/grade-4-geography-worksheets/ru.md))
 
+## Язык Eraja
+Уроки эраджанского в Classroom, Grade 8: [доска](../../rooms/classroom/docs/grade-8-erajan-board/ru.md), [словарь](../../rooms/classroom/docs/grade-8-erajan-vocabulary/ru.md), [работы](../../rooms/classroom/docs/grade-8-erajan-worksheets/ru.md). Ранний эраджанский обходился без глаголов.
+
 ## История
 - **Fenn Aries** («Великое королевство»): образовано в конце войны Пятой эры; красные плитки Mora Jai в честь победы генерала Тескина над армией Десилетов ([реклама](../../rooms/the-underpass/inner-sanctum-2/docs/mora-jai-box-fenn-aries-advert/ru.md)).
 - **Orinda Aries**: после войны уничтожили множество артефактов с её «печально известным чёрным символом» ([реклама](../../rooms/the-underpass/inner-sanctum-1/docs/mora-jai-box-orinda-aries-advert/ru.md)).
