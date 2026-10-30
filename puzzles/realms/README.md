@@ -29,7 +29,7 @@
 - **Ettsphere, 3-я эра** (материк Orindia): Orinda Aries (центр), к северу от неё Arch Aries, к югу Eraja, к западу Nuance (и Farther Nuance). ([карта](../../rooms/classroom/docs/grade-4-map-ettsphere/ru.md))
 - **Orrsphere, 3-я эра** (материк Moraven): Mora Jai (северо-восток), Corarica (запад, большая суша), Verra (юго-восток). ([карта](../../rooms/classroom/docs/grade-4-map-orrsphere/ru.md))
 - Карта Fenn Aries на доске Grade 4: Arch Aries на севере, Eraja на юго-востоке, города Fenn, Reddington, Oris. ([доска](../../rooms/classroom/docs/grade-4-geography-board/ru.md))
-- Тест History в Classroom, Grade 6 (ответы выведены по оценкам): первый коронованный правитель Fenn Aries — генерал Тескин; Eraja не была союзником Fenn Aries; после войны запрещён чёрный флаг (цвет Orinda Aries). ([тест](../../rooms/classroom/docs/grade-6-history-worksheets/ru.md))
+- Тест History в Classroom, Grade 6: первый коронованный правитель Fenn Aries — принц Леерсон; Eraja не была союзником Fenn Aries; после войны запрещён чёрный флаг (цвет Orinda Aries). ([тест](../../rooms/classroom/docs/grade-6-history-worksheets/ru.md))
 - Листы Grade 4 с 7 областями: правильно 1 сердце (Corarica), 2 полукруг (Mora Jai), 3 прямоугольник с кругом (Verra), 4 горы (Arch Aries), 5 пятиугольник (Fenn Aries, на глобусах 3-й эры там Orinda Aries), 6 ромб (Nuance), 7 песочные часы (Eraja); названия для 2, 3, 6 — по положению на картах (мой вывод). ([листы](../../rooms/classroom/docs/grade-4-geography-worksheets/ru.md))
 
 ## Язык Eraja
