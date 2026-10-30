@@ -18,4 +18,4 @@
 
 ## Разбиваемая дверь
 - Дверь, заколоченная досками крест-накрест, стоит в траве ([фото](photos/boarded-door.jpg)). Её **можно разбить**. Где именно в The Grounds, не указано.
-- Заколоченная дверь (стена) в The Grounds разбита [Power Hammer](../workshop/docs/recipe-power-hammer/ru.md). Вместе с разбитой стеной в [Basement](../basement/solutions.md) это соединило The Grounds и Basement.
+- Заколоченная дверь (стена) в The Grounds разбита [Power Hammer](../workshop/docs/recipe-power-hammer/ru.md). Вместе с разбитой стеной в [Basement](../basement/solutions.md) это соединило The Grounds и Basement; проход называется [Sealed Entrance](../sealed-entrance/solutions.md).
