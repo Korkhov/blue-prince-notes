@@ -23,7 +23,7 @@ Classroom, **8-й класс**. Три проверенные работы; оц
 5. **Treivenven** («Ven Treiven» принято как допустимый вариант; Trissa написала английское «branch»);
 6. **Manevtrei** (Trissa написала английское «trunk»).
 
-Из слов: [LOR слово, TREI дерево, DAU день, NAI ночь](../grade-8-erajan-vocabulary/ru.md); по этим ответам «nev» = новый (nevdau = «новый день», рассвет, как в реплике на [доске](../grade-8-erajan-board/ru.md)), «ul» = ты (ulteach, «Ulgo?»), «el» = я (elswim). Это моя расшифровка.
+Разбор по [словарю](../grade-8-erajan-vocabulary/ru.md) и [приставкам и суффиксам](../grade-8-erajan-affixes/ru.md): Ajlor = aj (первый) + lor (слово); Ulteach = ul (ты буду) + teach; Nevlor = новое слово; Hewam = hew (дом) + am (большой); Ovett = ov (к) + ett (восток); Elswim = el (я буду) + swim; Nevdau = nev + dau (начало дня, рассвет); Readle = read + le (я не буду); Manevtrei = ma (малый) + nev (начало) + trei (дерево) = ствол; Treivenven = trei + ven (конец) + ven (старый) = старые ветви. Поэтому «Leread» (приставка вместо суффикса) и «Ajdau» неверны.
 
 ## Photos / Фото
 01 — Maurice Jacobs; 02 — Trissa J.; 03 — Phoebe H.
