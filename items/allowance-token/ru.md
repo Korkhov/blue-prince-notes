@@ -4,7 +4,7 @@
 «Вы получили **жетон надбавки**. Ваше содержание (allowance) **навсегда увеличено на 2 монеты** (🪙).»
 
 ## Заметка
-- Лежит **внутри каждой коробки Mora Jai**. Получена из [Mora Jai в Trading Post](../../puzzles/mora-jai/trading-post/ru.md).
+- Лежит **внутри коробок Mora Jai** (в коробке в [Unknown](../../puzzles/mora-jai/unknown/ru.md) вместо него записка). Получена из [Mora Jai в Trading Post](../../puzzles/mora-jai/trading-post/ru.md).
 - Эффект постоянный: +2 монеты к ежедневному содержанию.
 
 ## Photos / Фото
