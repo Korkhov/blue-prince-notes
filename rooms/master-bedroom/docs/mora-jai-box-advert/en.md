@@ -1,3 +1,5 @@
+COLLECTOR'S COPY
+
 **Mora Jai Box**
 FUN FOR THE FAMILY!
 
@@ -11,3 +13,4 @@ While the fad may have ended, Mora Jai Boxes still make for a memorable gift for
 
 ## Photos / Фото
 ![01.jpg](01.jpg)
+![02.jpg](02.jpg)
