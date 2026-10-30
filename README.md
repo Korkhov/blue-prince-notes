@@ -44,6 +44,7 @@
 - [ ] [Music Room](rooms/music-room/open-questions.md): Что значит «denoted in verse» на полотне со скрипичным ключом
 - [ ] [Pump Room](rooms/pump-room/open-questions.md): Резервный бак питается от Boiler Room — что это даёт
 - [ ] [Room 46](rooms/room-46/open-questions.md): Решить головоломку с картой и булавками (карта); известно: первое королевство = Orinda Aries, последнее = Fenn Aries; Разгадать записку «8 писем, 8 выплат, 100 золота»; Что делать с 8 символами под полумесяцем
+- [ ] [Security](rooms/security/open-questions.md): Разобраться, что показывают мониторы (фото) и как они связаны с заметкой «DELETE IT!!»
 - [ ] [Throne Room](rooms/throne-room/open-questions.md): Что значит задача «Reclaim Crown» (есть ли в комнате что-то ещё; предположения: корона из Closed Exhibit или из Room 46)
 - [ ] [Campsite](rooms/the-grounds/campsite/open-questions.md): Что внутри палатки
 - [ ] [The Grounds](rooms/the-grounds/open-questions.md): Куда ведёт тоннель; как убрать коробки в тоннеле

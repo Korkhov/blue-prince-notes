@@ -15,3 +15,6 @@
 - **Электронная почта открывается только с терминала в Office**. Красная напечатанная табличка «почта только через Security» — ложь, как и положено по правилу.
 - Мелкий шрифт под «RED MEMOS = LIES»: **UNLESS WRITTEN BY HAND** ([записка](docs/blue-red-memos-note/ru.md)).
 - Clock Tower найден: [загадка с часами](../clock-tower/docs/clock-puzzle-notes/ru.md) — проект барона с красными и синими memos ([почта 1986](docs/terminal-emails-1986-87/ru.md)).
+
+## Мониторы
+[Фото](photos/monitors.jpg): стена из зелёных мониторов разных размеров, на каждом экране вид какой-то комнаты поместья; на столе телефон, видеокассеты, две клавиатуры, блокнот, кружка; на стене часы. Похоже на рисунок из заметки [«DELETE IT!!»](docs/monitors-delete-it-sketch/ru.md) (в [Safehouse](../abandoned-mine/safehouse/docs/monitors-delete-it-sketch/ru.md) такая же).
